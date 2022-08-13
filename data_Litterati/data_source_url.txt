@@ -1,6 +1,0 @@
-The contents of [Data_from_litterati.zip] ("Litterati - [...].csv") were sent directly to Lisa Watkins <ltw35@cornell.edu> from Dick Ayers <dick@litterati.org> on April 23, 2020, cc-ing Julie Bottau <julie@litterati.org> as "Archive 2.zip". At the time, Litterati data was not available for public download and this data sharing was covered by an NDA. At time of publication, the NDA is no longer in effect and Litterati data is also now available for download from the public: https://opendata.litterati.org/ 
-
-[vancouver_litteraticensusareastreettype_qgis.csv] is a spatial join performed by Lisa Watkins in QGIS, linking 2017-2019 litterati data ("litterati - Vancouver", filtered by year) + Vancouver census areas downloaded from https://opendata.vancouver.ca/explore/dataset/local-area-boundary/ + Vancouver street types downloaded from https://opendata.vancouver.ca/explore/dataset/public-streets/export/
-
-
-[Vancouver_litterati_withlocalareaid_qgis.csv] is a spatial join performed in QGIS by Lisa Watkins, linking 2017-2019 Litterati data ("litterati - Vancouver", filtered by year) + Vancouver census areas downloaded from https://opendata.vancouver.ca/explore/dataset/local-area-boundary/
