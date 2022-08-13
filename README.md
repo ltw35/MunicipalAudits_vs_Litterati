@@ -24,22 +24,27 @@ The associated manuscript is submitted for peer-review<br>
 *****
 This subdirectory contains the publically available litter audit `.pdf` reports for San Francisco, California ("SF"), Toronto, Canada, and Vancouver, Canada, which Lisa Watkins was able to locate by scouring the internet. `Vancouver_fullaudit` indicates these files contain appendices in addition to the report. These `full` versions were aquired by contacting the City of Vancouver. `Vancouver_municipalresponses` and 'SanJose_motivations_email' include the email responses Lisa solicited from municipal workers at each respective city to learn about the city's motivations for collecting this data and their uses for the data.<br><br>
 Also in this folder are `Vancouver_*YEAR*_site_*SIZE*_count`, which is a transcription of the *large* and *small* columns in Appendix F of the `Vancouver_fullaudit` PDF reports. Similarly `Vancouver_*YEAR*_site_characteristics_transcribed.csv` is a transcription of Appendix C from `Vancouver_fullaudit` of the corresponding year.
+<br>
 
 ## Contents of subdirectory `data_Litterati`
 *****
 This subdirectory contains a `.zip` file containing 5 `.csv` files shared with Lisa Watkins by Dick Ayers of Litterati. These files contain all available Litterati submissions for each listed city (San Francisco, San Jose, Toronto, Vancouver, and Washington DC). These cities were requested by Lisa because they contained (relatively) large amounts of Litterati submissions and also had several years of publically available litter audits that had been conducted by paid consulting firms. <br><br>Also in this folder are `litterati_nomapid_butinlimits_qgis.csv` (Vancouver litterati submissions from 2017-2019 that fell slightly outside of Vancouver municipal area), `Vancouver_litterati_withlocalareaid_qgis.csv` (Vancouver litterati submissions from 2017-2019 spatially joined in QGIS with Vancouver municipal areas), and `vancouver_litteraticensusareastreettype_qgis.csv` (Vancouver litterati submissions from 2017-2019 spatially joined in QGIS with Vancouver municipal areas and the street type, e.g. major or minor arterial where item was recorded). 
+<br> 
 
 ##Contents of subdirectory `data_iNaturalist`
 *****
 This subdirectory contains the iNaturalist submissions, available for public download from *iNaturalist.org*, occuring in the Vancouver area 2017-2019: `inaturalist_2017_2018_2019.csv`. It also contains these data spatially joined in QGIS with Vancouver local area boundaries for use in the `.R` code: `inaturalist_censusarea_qgis.csv`.
+<br>
 
 ##Contents of subdirectory `data_Vancouver311`
 *****
 This subdirectory contains the records from Vancouver's 311 hotline, available for public download from *opendata.vancouver.ca/explore/dataset/3-1-1-contact-centre-metrics/information/*, these specifically contain only those that occurred during September of 2017, 2018, and 2019: `*YEARMONTH*CaseLocationsDetails.csv`
+<br>
 
 ##Contents of subdirectory `data_demographics`
 *****
 This subdirectory contains the records from Vancouver's 2016 census results, available for public download from *opendata.vancouver.ca/explore/dataset/census-local-area-profiles-2016/information/*: `Vancouver_localarea_demographics_download.csv`
+<br>
 
 ## Notes about this project
 *****
