@@ -1,0 +1,948 @@
+﻿Site #,Site Id,Ward,Date,Start,Finish,Team,Fixed,Width 1,Width 2,Width 3,Street,St. Type,Lanes,Divided,Area,Grass Ht.(Inches),FastFood,ConvStore,MobileFood,"Bench or
+Resting
+Structure",Bus Stop,"Traffic
+Light/
+Stop sign",Litter Bin,"Large
+Litter
+Count","Small
+Litter
+Count",Catch Pt,LitterIndex,Cleanup,Details,Street,Coordinates,"Updated
+Coordinates from
+Previous Survey",Comments,2012_large,2012_small,2012_total
+1,1,1,16-Sep-16,9:10 AM,9:24 AM,A,Var,11,14,14,Markbrook Lane,Minor,2,N,Res,<3,N,N,N,N,Y,Y,N,18,16,"Curb-Grass
+Line",1,N,,Lane,"N:43.758572
+W:79.58778",,"Start at corner of Markbrook &
+Kipling",22,6,28
+2,2,1,16-Sep-16,8:15 AM,8:25 AM,A,Var,16,17,17,Glenhollow Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,12.5,1,"Curb-Grass
+Line",2,N,,Ave,"N:43.7305
+W:79.60489",,,0,3,3
+3,3,1,22-Sep-16,8:29 AM,8:37 AM,B,Var,16.5,16.5,17,Amoro Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,7,4,"Curb-Grass
+Line",2,N,,Drive,"N:43.723555
+W:79.57717",,"back of school yard just west of
+site. Start at 22 going away from
+school",0,6,6
+4,4,2,16-Sep-16,1:27 PM,1:55 PM,C,Fixed,18,18,18,Iron St.,Minor,4,N,Ind,<3,N,N,N,Y,N,Y,N,86,24,"Curb-Grass
+Line",4,N,,Street,"N: 43.70233
+W:79.58192",*,,5,8,13
+5,5,2,16-Sep-16,9:32 AM,9:50 AM,C,Var,2,2,2,Lockheed Blvd,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,2,4,Fence-Curb-Grass Line,1,N,,Blvd,N:43.699138 W:79.529015,,bound by curb and residential property- no sidewalk. 2 single household construction zones along audit site.,0,2,2
+6,6,2,16-Sep-16,9:19 AM,9:26 AM,C,Var,8.5,11.5,11.5,Westona St.,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,1,2,"Hedge-Curb-
+Grass Line",1,N,,Street,"N:43.696943
+W:79.527758",,"bound by curb and residential
+property- no sidewalk",0,0,0
+7,7,2,16-Sep-16,9:04 AM,9:12 AM,C,Var,7.5,9,9,Kingdom St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,3,11,"Curb-Grass
+Line",1,N,,Street,"N:43.695104
+W:79.518302",,"bound by curb and residential
+property- no sidewalk",3,1,4
+8,8,4,16-Sep-16,1:00 PM,1:12 PM,C,Var,10,17,18,Martin Grove Rd.,Major,4,N,Res,3 to 6,N,N,N,N,Y,Y,Y,4,4,"Fence-Curb-
+Grass-Tree
+Line",2,N,3 divided city bins,Road,"N:43.687444
+W:79.56979",,"bound by curb, 18ft of grass
+between the curb and the
+sidewalk",23,15,38
+9,11,4,19-Sep-16,2:42 PM,2:50 PM,C,Var,10,8.5,5.5,Aylesbury Rd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,1,1,Grass-Ditch,1,N,,Road,"N:43.66632
+W:79.53811",,"bound by street and residential
+property-no sidewalk",0,0,0
+10,12,3,19-Sep-16,3:02 PM,3:18 PM,C,Var,10,10,10,Rathburn Rd.,Major,6,Y,Res-Com,<3,Y,Y,N,N,Y,Y,Y,5,12,"Fence-Curb-
+Grass Line",1,N,2 divided city bins,Road,"N: 43.65268
+W:79.57359",*,"bound by curb and residential
+property. Construction on south
+side, audited north side",17,11,28
+11,13,4,19-Sep-16,2:20 PM,2:32 PM,C,Var,9,6,7,Finchley Rd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,4,3,Grass-Ditch,1,N,,Road,"N:43.65917 W:
+79.52646",*,"survey completed between
+residents of 3 & 4 Finchley Rd,
+directly in front of #4 Finchley",6,1,7
+12,14,4,19-Sep-16,2:05 PM,2:11 PM,C,Var,4,4,2,Burnhamthorpe Pk Blvd,Minor,2,N,Res,<3,N,N,N,N,N,N,N,0,1,"Grass Line-
+Ditch",1,N,,Blvd,"N: 43.65216
+W:79.53876",*,"survey completed in front of 59
+Burnhamthorpe Park Blvd",3,0,3
+13,16,5,19-Sep-16,12:30 PM,12:43 PM,C,Fixed,18,18,18,Fieldway Rd.,Minor,2,N,Res-Com-Ind,3 to 6,N,N,N,N,N,Y,N,11,7,"Curb-Grass
+Line",2,Y,,Road,"N: 4364039 W:
+79.52981",*,"survey start point in front of
+Humberview Body Shop",9,4,13
+14,17,5,19-Sep-16,12:06 PM,12:20 PM,C,Var,5,5,3,Elderidge Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3,1,"Fence-Grass
+Line",1,N,,Ave,"N: 43.63636
+W:79.50249",*,"First house along audit site
+undergoing renovations",1,0,1
+15,18,5,19-Sep-16,11:30 AM,11:40 AM,C,Fixed,18,18,18,Rosewood Ave.,Minor,2,N,Com-Res,"<3, over 6",N,N,N,N,N,Y,N,5,7,"Ditch-Curb-
+Grass Line",1,N,,Ave,"N: 43.62567 W:
+79.50966",*,,8,4,12
+16,20,6,19-Sep-16,10:34 AM,10:43 AM,C,Var,11.5,14,14,Valermo Dr.,Minor,2,N,Res,over 6,N,N,N,N,N,Y,N,2,3,"Fence-Curb-
+Grass Line",3,N,,Drive,"N:43.606189
+W:79.5455",,,13,21,34
+17,21,6,19-Sep-16,10:10 AM,10:30 AM,C,Fixed,18,18,18,Browns Line,Major,4,N,Com-Res-Ind,<3,N,N,N,N,Y,N,N,16.5,53,"Curb-Grass
+Line",1,N,,Line,"N:43.595244
+W:79.542174",,,16,22,38
+18,23,5,19-Sep-16,11:18 AM,11:25 AM,C,Fixed,18,18,18,Canmotor Ave,Minor,2,N,Com-Ind,<3,N,N,N,N,N,N,N,9,5,Grass,2,N,,Ave,N:43.622274 W:79.510662,,"potholes in driveways are catch points. Commercial/warehouses on both sides, site used hydro poles as boundaries",10,1,11
+19,24,11,16-Sep-16,2:19 PM,2:30 PM,C,Var,17,17,18,Oak St.,Minor,2,N,Res,<3,N,N,N,Y,Y,Y,Y,3,18,"Fence-Curb-
+Grass Line",1,N,1 divided city bin,Street,"N:43.70900
+W:79.52770",,"bound by curb & commercial
+property",0,2,2
+20,25,13,20-Sep-16,11:13 AM,11:36 AM,C,Var,18,5,18,St. Clair Ave. W,Major,4,N,Com-Res,3 to 6,Y,Y,N,Y,Y,Y,Y,51,12,"Curb-Grass-
+Stone wall",3,N,1 divided city bin,Ave,"N:43.66623
+W:79.49905",*,"Litter pieces jammed into stone
+wall gaps",17,2,19
+21,26,13,20-Sep-16,10:11 AM,10:26 AM,C,Var,6,6,6,Maria St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,3.5,2,Curb,1,N,,Street,"N: 43.66628
+W:79.47476",*,,1,6,7
+22,27,13,20-Sep-16,9:16 AM,9:24 AM,C,Var,6.5,6.5,6.5,Methuen Ave.,Minor,2,N,Com-Res,3 to 6,N,Y,N,N,Y,Y,N,3,6,"Curb-Grass
+Line",1,N,,Ave,"N:43.655704
+W:79.489239",,"Construction along sidewalk
+across street",14,0,14
+23,28,13,20-Sep-16,9:51 AM,10:05 AM,C,Var,10.5,8,8,Runnymede Rd.,Minor,2,N,Res-Com,over 6,Y,Y,N,N,Y,Y,Y,21,22,"Curb-Grass-
+Barrier Walls",1,N,,Road,"N: 43.66041
+W:79.48014",*,"Audit site starts at bus stop. 3
+divided city bins",3,0,3
+24,29,13,15-Sep-16,9:57 AM,10:15 AM,C,Fixed,18,18,18,Spring Rd.,Lane,2,N,Park,3 to 6,N,N,N,Y,N,Y,Y,3,6,"Curb-Grass
+Line",1,N,,Road,"N:43.64356
+W:79.45821",,4 sets of waste & recycling carts,1,1,2
+25,30,17,20-Sep-16,1:21 PM,1:28 PM,B,Var,6,6,7,Nairn Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,11.5,2,"Curb-Stone
+walls",1,N,,Ave,"N:43.685551
+W:79.452248",,,8,4,12
+26,31,17,20-Sep-16,2:20 PM,2:45 PM,C,Var,18,18,7,Osler St.,Minor,4,Y,Com-Res,3 to 6,N,N,N,N,N,Y,N,41,8,Curb-Weeds,4,N,,Street,"N:43.673245
+W:79.461405",,"Large litter caught in clumps of
+weeds",25,2,27
+27,32,17,20-Sep-16,3:02 PM,3:25 PM,C,Var,15,18,9,Caledonia Rd.,Minor,2,N,Com-Res-Park,N/A,N,N,N,N,Y,Y,Y,32,17,Curb-Weeds,2,N,,Road,"N:43.67518
+W:79.45477",,4 divided city bins,27,11,38
+28,33,17,20-Sep-16,2:42 PM,3:00 PM,B,Var,6,6,6,Uxbridge Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,48,4,Curb,4,N,,Ave,"N:43.669104
+W:79.456949",,,4,1,5
+29,34,17,22-Sep-16,9:49 AM,9:59 AM,C,Var,6.5,6.5,6.5,Ashburnham Rd.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,8,4,Curb-Hedge,2,N,,Road,"N:43.673132
+W:79.443878",,,19,0,19
+30,35,17,22-Sep-16,10:03 AM,10:05 AM,C,Var,6,6,6,McFarland Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,11,4,Curb,2,N,,Ave,"N:43.67371
+W:79.442423",,,40,4,44
+31,36,14,20-Sep-16,3:34 PM,3:47 PM,C,Var,18,11,11,Dupont St.,Major,2,N,Res-Com,N/A,N,N,N,Y,N,N,Y,3,59,Curb,1,N,,Street,"N:43.666352
+W:79.449495",,Divided city bin,3,0,3
+32,37,14,20-Sep-16,3:59 PM,4:20 PM,C,Var,6,6,7,Campbell Ave.,Minor,2,N,Res-Park,3 to 6,N,N,N,Y,N,Y,Y,6,7,"Fence-Hedge-
+Curb-Grass
+Line",1,N,,Ave,"N:43.664234
+W:79.449789",,1 set of waste & recycling carts,7,0,7
+33,38,14,15-Sep-16,10:20 AM,10:30 AM,C,Var,8.5,7.5,8.5,Indian Trail,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,0,0,"Curb-Grass
+Line",1,N,,Trail,"N:43.653918
+W:79.45751",,,1,0,1
+34,39,14,15-Sep-16,10:40 AM,10:52 AM,C,Var,7.5,7.5,7.5,Sunnyside Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,5,3,"Curb-Grass
+Line",1,N,,Ave,"N:43.648194
+W:79.452721",,,2,0,2
+35,40,14,15-Sep-16,3:00 PM,3:18 PM,C,Var,18,12.5,16,Queen St. W.,Major,4,N,Com,N/A,N,Y,N,Y,Y,Y,Y,17,27,Curb,3,N,1 divided city bin,Street,"N:43.63945
+W:79.443317",,"curb to sidewalk, and curb to
+parking lot",12,10,22
+36,41,18,15-Sep-16,11:22 AM,11:37 AM,C,Var,7,7.5,7.5,Whytock Ave.,Minor,2,N,Com-Res,N/A,N,N,N,Y,N,Y,Y,11,4,Curb,3,N,"1 set of park waste carts, 1 divided city bin",Ave,N:43.653728 W:79.442256,,Construction at corner near audit site. Playground across the street,4,3,7
+37,42,18,14-Sep-16,8:40 AM,8:56 AM,C,Var,7,6,6,Muir Ave.,Minor,2,N,Res,N/A,N,N,N,N,Y,Y,N,17.5,3,Curb,3,N,,Ave,"N:43.653795
+W:79.434432",,two curbs,4,2,6
+38,43,18,14-Sep-16,9:15 AM,9:40 AM,C,Var,5,6,6,Macklem Ave.,Minor,1,N,Com-Res,N/A,N,N,N,N,N,Y,N,5.5,4,Curb,2,N,,Ave,"N:43.651596
+W:79.431628",,"secondary curb is stairs/ garden
+walls",23,3,26
+39,44,19,14-Sep-16,8:44 AM,8:55 AM,A,Var,7.5,7.5,7,Pendrith St.,Minor,2,N,Res,3 to 6,N,N,N,Y,N,Y,N,8,2,"Fence-Curb-
+Driveway",2,N,,Street,"N:46.665974
+W:79.425863",,,15,2,17
+40,45,19,14-Sep-16,3:20 PM,3:36 PM,C,Var,7,6.5,6.5,Crawford St.,Minor,2,N,Com-Res,,N,N,N,N,N,,Y,14,6,Curb,3,N,,Street,"N:43.645341
+W:79.415732",,1 divided city bin,14,6,20
+41,46,19,13-Sep-16,9:01 AM,9:15 AM,A,Var,7,7,7,Stafford St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,11,7,"Fence-Curb-
+Grass Line",2,N,,Street,"N: 43.64375
+W:79.41132",*,"two curbs, and residential
+fences. Site starts at #57",20,6,26
+42,47,19,14-Sep-16,11:00 AM,11:17 AM,C,Var,9,7,7,Mansfield Ave.,Minor,2,N,Com-Res,N/A,Y,N,N,N,N,Y,N,18.5,3,Fence-Curb,2,N,,Ave,N: 43.65339W:79.41368,*,school and park at intersection of Bellwoods ave & Mansfield Ave. Church across street from the park,34,4,38
+43,48,19,13-Sep-16,11:25 AM,11:43 AM,C,Var,9,8,8,Euclid Av.,Minor,2,N,Com-Res,3 to 6,N,N,N,N,N,N,Y,1,7,Fence-Hedge-Curb-Grass Line,1,N,,Ave,N: 43.65735W:79.41200,*,one way street. 2 divided city bins,14,2,16
+44,49,19,13-Sep-16,12:33 PM,12:47 PM,C,Var,18,7,7,Palmerston Ave.,Minor,2,N,Res-Com,N/A,N,Y,N,N,Y,Y,Y,1,39,Fence-Curb,1,N,,Ave,"N: 43.65584
+W:79.41010",*,2 divided city bins,29,2,31
+45,50,17,14-Sep-16,2:40 PM,2:55 PM,A,Var,8,7,7,Benson Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,15,4,"Fence-Hedge-
+Curb-Grass
+Line",1,N,,Ave,"N:43.678212
+W:79.432872",,,4,1,5
+46,51,17,14-Sep-16,2:15 PM,2:22 PM,A,Var,6,6,6,Alberta Ave.,Minor,2,N,Res,<3,Y,N,N,Y,N,Y,Y,10,4,"Curb-Property
+Line",1,Y,"Individual collecting
+bottles on street",Ave,"N:43.674865
+W:79.431594",,"2 recycle, 1 garbage bin on
+corner",18,4,22
+47,52,20,13-Sep-16,10:20 AM,10:29 AM,A,Var,18,17,17,Portland St.,Minor,2,N,Com-Res,3 to 6,N,N,N,Y,N,Y,Y,8,26,Curb,1,N,"Large recycle &
+garbage bins across
+street",Street,"N:43.642606
+W:79.399201",,Park across street,10,7,17
+48,53,20,13-Sep-16,11:35 AM,11:51 AM,A,Var,8,8,8,Wolseley St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,29,9,Fence-Curb,2,N,,Street,"N:43.648212
+W:79.40232",,,23,2,25
+49,54,20,13-Sep-16,11:09 AM,11:18 AM,A,Var,18,8,18,Dennison Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,8,15,Fence-Curb,1,N,,Ave,"N:43.648244
+W:79.401169",,,16,22,38
+50,55,20,12-Sep-16,4:19 PM,4:27 PM,A,Var,7,6,6,Augusta Ave.,Minor,2,N,Res,3 to 6,Y,N,N,N,N,Y,N,15.5,19,Fence-Curb,3,Y,,Ave,"N: 43.64899
+W:79.39992",*,,19,7,26
+51,56,20,13-Sep-16,1:55 PM,2:20 PM,A,Var,13,18,18,Napanee Ct.,Lane,1,N,Res,N/A,N,N,N,Y,N,N,N,9.5,16,Curb,1,N,,Crescent,"N:43.650732
+W:79.399245",,"location is a laneway to housing
+co-op. Sidewalk of apartments,
+basketball courts near by",21,3,24
+52,57,20,14-Sep-16,2:20 PM,2:40 PM,C,Var,18,17,18,Kensington Ave.,Lane,2,N,Res-Com,N/A,N,N,N,Y,N,Y,N,1,50,Hedge,1,N,,Ave,"N: 43.65327
+W:79.40027",*,,9,15,24
+53,58,20,13-Sep-16,3:30 PM,3:45 PM,C,Var,7.5,6,6,Glasgow St.,Lane,1,N,Res,N/A,N,N,N,Y,N,Y,N,9,8,Curb-Metal grates,2,N,,Street,N: 43.65666W:79.39832,*,"across laneway from Glasgow St Parkette, There is a litter bin that is not labeled as a city litter bin. Residential Auto carts are out",17,9,26
+54,59,20,15-Sep-16,12:14 PM,12:34 PM,C,Var,18,10,14,Elm St.,Minor,2,N,Com-Res,N/A,N,Y,N,Y,N,Y,N,4,26,"Curb-Elevated
+side walk",2,N,,Ave,"N: 43.65623
+W:79.38979",*,,28,20,48
+55,60,20,12-Sep-16,3:05 PM,3:16 PM,A,Var,10,10,10,Oxley St.,Minor,2,N,Com,N/A,Y,N,N,N,N,Y,N,7,26,Curb,1,N,,Street,"N:43.646207
+W:79.39473",,,2,3,5
+56,61,27,13-Sep-16,3:10 PM,3:22 PM,B,Var,10,18,18,Grenville St.,Minor,2,N,Com,N/A,Y,N,N,Y,Y,Y,Y,8.5,12,Curb,1,N,"Litter bin on Bay, one in front of Police station",Street,N: 43.66172W:79.38928,*,"site located by Woman's College Hospital, moved site closer to intersection of Bay St and Grenville due to construction",47,17,64
+57,62,20,20-Sep-16,9:46 AM,9:56 AM,B,Var,6.5,6.5,7,Old Park Rd.,Minor,2,Y,Res,3 to 6,N,N,N,N,N,Y,N,1,4,"Curb-Grass
+Line",1,N,,Road,"N:43.702858
+W:79.4732184",,across from elementary school.,8,1,9
+58,63,20,20-Sep-16,8:47 AM,9:06 AM,B,Var,2,2,2,Vesta Dr.,Minor,2,N,Res,N/A,N,N,N,N,N,N,N,1,3,Curb,1,N,,Drive,"N:43.701059
+W:79.421058",,,37,3,40
+59,64,21,20-Sep-16,9:30 AM,9:35 AM,B,Var,2,2,2,Ava Rd.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,2,0,Curb,1,N,,Road,"N:43.697515
+W:79.422191",,,1,2,3
+60,65,21,20-Sep-16,9:12 AM,9:22 AM,B,Var,9.5,9.5,10,Vesta Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,7,4,"Curb-Grass
+Line",1,N,,Drive,"N:43.697692
+W:79.419561",,Construction on site,7,4,11
+61,66,21,20-Sep-16,2:05 PM,2:16 PM,B,Var,5.9,5.9,4.9,Bathurst St.,Major,4,N,Res,N/A,Y,Y,N,N,Y,Y,N,7,4,"Curb-Stone
+walls",1,N,,Street,"N:43.687363
+W:79.420017",,,16,3,19
+62,67,7,16-Sep-16,1:10 PM,1:17 PM,A,Var,16,16,17,Windhill Cres.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,14,2,"Curb-Grass
+Line",1,N,,Crescent,"N:43.746121
+W:79.546494",,Start in front of house #64,18,3,21
+63,68,7,16-Sep-16,12:50 PM,12:55 PM,A,Var,2,2,2,Franson Cres.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3,3,"Curb-Grass
+Line",1,N,,Crescent,"N:43.740907
+W:79.542726",,"bound by curb and residential
+property. 2 divided city bins",7,3,10
+64,69,9,21-Sep-16,10:47 AM,11:00 AM,C,Var,14.5,14.5,14.5,Wilson Ave.,Major,4,N,Res,<3,N,Y,N,Y,Y,Y,Y,20,45,"Curb-Grass
+Line",2,N,,Ave,"N:43.723595
+W:79.493111",,"adjacent to large apartment
+complex and across Wilson from
+School Yard",40,18,58
+65,70,8,21-Sep-16,10:22 AM,10:35 AM,C,Fixed,18,18,18,Tuscan Gate,Minor,2,N,Com,<3,N,N,N,N,Y,Y,N,36,12,"Curb-Grass
+Line",2,N,,Gate,"N:43.754137
+W:79.483471",,,31,4,35
+66,71,10,21-Sep-16,1:48 PM,1:54 PM,C,Var,2,2,2,Josephine Rd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3,0,"Curb-Grass
+Line",1,N,,Road,"N: 43.74353
+W:79.44755",*,"Public litter bin in front of
+synagogue",2,2,4
+67,72,10,21-Sep-16,2:03 PM,2:12 PM,C,Var,2,2,2,Heaton St.,Minor,2,N,Res-Ind,3 to 6,N,N,N,Y,N,Y,N,4,1,"Curb-Grass
+Line",1,N,,Street,"N:43.75766
+W:79.440932",,"along side a congregation and
+has commercial complex to
+south west",5,0,5
+68,73,23,16-Sep-16,11:40 AM,11:50 AM,B,Var,2,2,2,Newtonbrook Blvd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,10,2,"Fence-Hedge-
+Curb-Grass",1,N,,Blvd,"N:43.483738
+W:79.423247",,,8,5,13
+69,74,23,16-Sep-16,11:15 AM,11:31 AM,B,Var,17,17,13,Churchill Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,37,6,"Curb-Grass
+Line",2,N,,Ave,"N:43.770336
+W:79.42859",,,14,5,19
+70,75,23,16-Sep-16,11:01 AM,11:10 AM,B,Var,8.5,8.5,8.5,Tamworth Rd.,Minor,2,N,Res,over 6,N,N,N,N,N,Y,N,7,1,"Curb-Grass
+Line",1,N,,Road,"N:43.772356
+W:79.420428",,,5,4,9
+71,76,23,16-Sep-16,10:45 AM,10:56 AM,B,Var,18,18,10,Tamworth Rd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3.5,6,"Hedge-Curb-
+Grass Line",1,N,,Road,"N:43.768176
+W:79.418767",,"2 Litter bins across street on
+Northtown Way",1,4,5
+72,77,23,16-Sep-16,10:20 AM,10:34 AM,B,Fixed,18,18,18,Doris Ave.,Walkway,4,N,Res,3 to 6,N,Y,N,N,N,Y,Y,18,22,"Curb-Grass-
+Tree Line",2,N,,Ave,"N:43.775581
+W:79.412541",,Park Walkway,7,5,12
+73,78,23,16-Sep-16,9:58 AM,10:04 AM,B,Var,2,2,2,Byng Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,9,1,Curb,1,N,,Ave,"N:43.779743
+W:79.401193",,"no sidewalk on site location, but
+one is present across the street",2,1,3
+74,79,24,16-Sep-16,11:58 AM,12:09 PM,B,Fixed,18,18,18,Dumont St.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,20,7,"Curb-Grass
+Line",1,N,,Street,"N:43.794329
+W:79.415154",,,8,1,9
+75,80,24,16-Sep-16,12:22 PM,12:29 PM,B,Var,2,2,2,Michigan Dr.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,6.5,1,Curb,1,N,,Drive,"N:43.799558
+W:79.407814",,,0,0,0
+76,81,24,16-Sep-16,9:42 AM,9:50 AM,B,Var,2,2,2,Wycliffe Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,4,4,Curb,1,N,,Ave,"N:43.775047
+W:79.388901",,"new house being build across
+the street from section 1 of
+small litter survey. No sidewalks
+along the site",4,0,4
+77,82,33,16-Sep-16,7:56 AM,8:08 AM,B,Var,17.5,16,10,Cobblestone St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3,0,"Curb-Grass
+Line",1,N,,Street,"N:43.786345
+W:79.364541",,Litter bin at bus stop on corner,3,0,3
+78,83,33,16-Sep-16,8:30 AM,8:50 AM,B,Fixed,18,18,18,Leslie St.,Major,4,N,Res,over 6,N,N,N,N,Y,Y,Y,35.5,11,"Curb-Grass
+Line",4,N,,Street,"N:43.781306
+W:79.365762",,,15,10,25
+79,84,33,22-Sep-16,1:20 PM,1:33 PM,B,Var,17,17,16.5,George Henry Blvd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3,3,"Curb- Grass
+Line",1,N,,Blvd,"N:43.773289
+W:79.348297",,"Start at 99, head towards Don
+Mills Rd",3,1,4
+80,85,34,21-Sep-16,9:03 AM,9:17 AM,B,Var,16,18,18,Roywood Dr.,Minor,2,N,Res,over 6,N,N,N,N,N,Y,N,25,8,"Fence-Hedge-
+Curb-Grass
+Line",3,N,,Drive,"N:43.764512
+W:79.323616",,,3,3,6
+81,86,34,21-Sep-16,2:06 PM,2:21 PM,B,Fixed,18,18,18,Don Mills Rd.,Major,6,Y,Res,3 to 6,N,N,N,y,Y,Y,Y,49,14,"Curb-Grass
+Line",3,N,,Road,"N: 43.76163
+W:79.34708",*,"4 litter bins within sight of the
+intersection of Don Mills &
+Graydon Hall",0,1,1
+82,87,34,21-Sep-16,9:30 AM,9:42 AM,B,Var,17,17,17,Aldenham Cres.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,7,3,"Curb-Grass
+Line",2,N,,Crescent,"N: 43.75004
+W:79.32938",*,"Catwalk to parkland within
+survey area (part of school
+route)",0,4,4
+83,88,25,19-Sep-16,9:04 AM,9:12 AM,B,Var,3,3,3,Tottenham Rd.,Minor,2,N,Res,N/A,N,N,N,N,N,N,N,0,0,"Curb-Grass
+Line",1,N,,Road,"N: 43.73092
+W:79.35318",*,,0,1,1
+84,89,25,21-Sep-16,12:25 PM,12:32 PM,B,Var,17,17,17,Riderwood Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,Y,N,N,7,2,"Curb-Grass
+Line",2,N,,Drive,"N:43.75534
+W:79.36512",*,"Start south side heading west
+just past Orchid",3,0,3
+85,90,25,21-Sep-16,12:00 PM,12:05 PM,B,Var,16,16,16,Ealing Dr.,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,0,4,"Curb-Grass
+Line",1,N,,Drive,"N: 43.76104
+W:79.36694",*,,8,1,9
+86,91,25,21-Sep-16,11:19 AM,11:27 AM,B,Var,2,2,2,Wimpole Dr.,Minor,2,N,Res,N/A,N,N,N,N,N,N,N,11,5,Curb-Pylons,2,N,,Drive,"N: 43.76035
+W:79.38058",*,"Study area on south side.
+Construction on both sides",10,6,16
+87,92,25,21-Sep-16,10:54 AM,11:05 AM,B,Fixed,18,18,18,York Mills Rd.,Major,4,N,Res-Park,3 to 6,N,N,N,N,N,Y,N,8.5,16,"Curb-Grass
+Line-Tree Line",1,N,,Road,"N: 43.74873
+W:79.38266",*,,2,9,11
+88,93,25,21-Sep-16,10:33 AM,10:45 AM,B,Var,17,16,17,Danville Dr.,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,12.5,5,"Curb-Grass
+Line",2,N,,Drive,"N:43.7496
+W:79.396405",,Adjacent construction site ,1,0,1
+89,94,25,19-Sep-16,9:37 AM,10:00 AM,B,Var,18,18,8,Bayview Ave,Major,4,N,Res,N/A,N,N,N,Y,Y,Y,Y,20,8,Curb- Grass Line,1,N,"Bin beside bus stop, one along sidewalk",Ave,N:43.72791W:79.383458,,"site is more on Lawrence, adjacent to intersection and school",17,2,19
+90,95,25,21-Sep-16,10:10 AM,10:18 AM,B,Var,2,2,2,Stratford Cres.,Minor,2,N,Res,N/A,N,N,N,N,N,N,N,3,0,Curb,1,N,,Cres,"N:43.720241
+W:79.385692",,Construction on street,4,1,5
+91,96,25,19-Sep-16,10:17 AM,10:30 AM,B,Var,6,6.5,6,Bayview Ave.,Major,4,N,Res,N/A,N,N,N,N,Y,Y,Y,19.5,8,"Curb-Grass
+Line",2,N,,Ave,"N:43.720016
+W:79.378496",,"large health centre north east of
+site, park and trail at south end
+of site. Near Blythwood and
+across street",42,9,51
+92,97,25,21-Sep-16,3:03 PM,3:12 PM,C,Var,7,7,7,Deloraine Ave.,Minor,2,N,Com-Res,3 to 6,Y,N,N,Y,Y,Y,Y,1,8,"Hedge-Curb-
+Grass Line",1,N,,Ave,"N:43.773397
+W:79.40466",,2 divided city bins,9,0,9
+93,98,16,19-Sep-16,11:10 AM,11:20 AM,B,Var,8,8,8,Henning Ave.,Minor,2,N,Res,N/A,N,N,N,Y,Y,Y,N,12,3,"Curb-Grass-
+Brick wall",2,N,,Ave,"N:43.70689
+W:79.401692",,,1,2,3
+94,99,15,20-Sep-16,10:05 AM,10:20 AM,B,Var,14,14,15,Glenmount Ave.,Minor,2,N,Res,over 6,N,N,N,N,N,Y,N,27,9,"Fence-Hedge-
+Curb-Grass
+Line",3,N,,Ave,"N:43.713307
+W:79.431306",,,0,2,2
+95,100,15,20-Sep-16,10:29 AM,10:45 AM,B,Var,2,2,2,Dalemount Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,21.5,2,Curb-Construction Trailer,4,N,"Construction trailer, cars parked for length of site",Ave,N:43.71669W:79.434589,,school located on the north west corner of Glenmont and Fairholme (Across Fairholome from site),1,2,3
+96,101,15,20-Sep-16,1:00 PM,1:13 PM,B,Var,6.5,6.5,7.5,Lanark Ave.,Minor,2,N,Res,N/A,N,Y,N,N,N,Y,N,7.5,9,"Hedge-Curb-
+Stone wall",1,N,,Ave,"N:43.696401
+W:79.444255",,"school located across
+Gelnholme from site",3,1,4
+97,102,15,20-Sep-16,12:40 PM,12:52 PM,B,Var,6.5,7,6.5,Ronald Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,3,1,"Curb- Grass
+Line",1,N,,Ave,"N:43.697006
+W:79.458551",,,28,1,29
+98,103,12,20-Sep-16,11:40 AM,11:51 AM,B,Var,7.5,7.5,7.5,Amesbury Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,5.5,3,"Fence-Hedge-
+Curb-Grass
+line",2,N,,Drive,"N:43.700463
+W:79.481185",,,11,5,16
+99,104,12,16-Sep-16,8:25 AM,8:37 AM,C,Fixed,18,18,18,Brookhaven Dr.,Minor,2,N,"Res-School
+(Inst)",3 to 6,N,N,N,N,N,Y,N,15,9,"Fence-Curb-
+Grass Line",3,N,,Drive,"N:43.700807
+W:79.495005",,"Audit site alongside fence of
+school playground",16,5,21
+100,105,12,16-Sep-16,8:41 AM,8:55 AM,C,Fixed,18,18,18,Thurodale Ave.,Minor,2,N,"Res-School
+(Inst)",3 to 6,N,N,N,N,N,Y,N,18,14,"Fence-Curb-
+Grass Line",3,N,,Ave,"N:43.701581
+W:79.500824",,"Audit site alongside fence of
+school playground",32,9,41
+101,106,12,20-Sep-16,12:01 PM,12:14 PM,C,Var,7.5,7.5,7.5,Lampton Ave,Minor,2,N,Res,over 6,N,N,N,N,N,N,N,14,14,Hedge-Curb,2,N,,Ave,"N:43.68112
+W:79.49635",*,"residential auto carts along
+survey area",4,2,6
+102,107,9,21-Sep-16,11:36 AM,11:43 AM,C,Var,2,2,2,Cornelius Pkwy.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,10,5,"Curb-Grass
+Line",1,N,,Parkway,"N:43.725439
+W:79.476947",,,7,0,7
+103,108,9,21-Sep-16,1:13 PM,1:20 PM,C,Var,9,10,10,Murray Rd.,Minor,2,N,Res-Ind,3 to 6,N,N,N,N,N,N,N,0,14,"Curb-Grass
+Line",1,N,,Road,"N:43.73271
+W:79.472594",,"across Plewes rd from Toronto
+Transportation Services",3,2,5
+104,109,9,21-Sep-16,1:27 PM,1:37 PM,C,Fixed,18,18,18,Beffort Rd.,Major,2,N,Res,3 to 6,N,N,N,N,N,N,N,8,2,"Curb-Grass
+Line",1,N,,Road,"N: 43.73549
+W:79.46059",*,"adjacent to large empty lot for
+industrial property",4,2,6
+105,110,9,16-Sep-16,11:37 AM,11:50 AM,A,Fixed,18,18,18,Sheppard Ave. W,Major,4,N,Res,<3,N,N,N,Y,Y,Y,N,26,26,"Curb-Grass
+Line",2,N,,Ave,"N:43.742124
+W:79.498615",,"Park at end of Clubhouse Court.
+Start at walkway",26,24,50
+106,111,8,16-Sep-16,10:07 AM,11:20 AM,A,Fixed,18,18,18,Finch Ave. W,Major,4,N,Com-Res,<3,Y,Y,N,Y,Y,Y,Y,21,48,"Curb-Grass
+Line",3,N,,Ave,"N:43.757832
+W:79:512107",,"adjacent to several apartment
+buildings",51,40,91
+107,112,8,16-Sep-16,10:13 AM,10:30 AM,A,Fixed,18,18,18,Jane St.,Major,4,N,Res,<3,N,Y,N,Y,Y,Y,Y,27,22,Curb-Grass Line,4,N," City bin with pedal; garbage, recycling, cigarettes",Street,N:43.771125W:79.521855,,,21,12,33
+108,113,8,21-Sep-16,9:31 AM,9:40 AM,C,Var,2,2,2,Magnetic Dr.,Minor,2,N,Com,<3,Y,N,N,N,N,N,N,5,3,"Curb-Grass
+Line",1,N,,Dr.,"N:43.66427
+W:79.44927",,,10,11,21
+109,114,8,21-Sep-16,9:56 AM,10:13 AM,C,Fixed,18,18,18,Chesswood Dr.,Major,2,N,Com,<3,N,N,N,N,Y,N,N,10,27,"Curb-Grass
+Line",1,N,,Dr.,"N:43.764824
+W:79.477692",,,22,15,37
+110,115,16,22-Sep-16,9:55 AM,10:05 AM,B,Var,9.5,9.5,18,Lawrence Ave. W,Major,4,N,Res,N/A,Y,Y,N,N,Y,Y,N,13,14,Fence-Curb-Grass Line,3,N,,Ave,N:43.722873W:79.414069,,site across from secondary school lot and adjacent to shelter and medical clinic parking lot. Start at east end of clinic heading west,21,0,21
+111,116,12,16-Sep-16,8:13 AM,8:20 AM,C,Fixed,18,18,18,Tretheway Dr,Major,4,N,Res,<3,N,N,N,N,Y,Y,Y,6,3,"Fence-Curb-
+Grass Line",1,N,1 divided city bin,Drive,"N:43.63697
+W:79.43589",,,15,9,24
+112,117,16,22-Sep-16,9:38 AM,9:48 AM,B,Var,7.5,10.5,8.5,Avenue Rd.,Major,4,N,Res,N/A,Y,Y,N,N,Y,Y,Y,5,10,"Curb-Grass
+Line",1,N,Bin across street,Road,"N:43.719635
+W:79.415407",,"across the street from a private
+school",2,0,2
+113,118,13,15-Sep-16,9:15 AM,9:40 AM,C,Var,9,3,3,Woodland Hts.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,0,0,Curb,1,N,,Heights,"N: 43.64022
+W:79.46885",*,"Started at fire hydrant after Y-
+intersection",2,0,2
+114,119,6,19-Sep-16,10:50 AM,11:08 AM,C,Fixed,18,18,18,Butterick Rd.,Minor,2,N,Ind,3 to 6,N,N,N,Y,N,Y,N,18,23,"Grass Line-
+Ditch",2,N,,Road,"N: 43.61330
+W:79.53040",*,"site across several commercial
+lots, many vehicles parked along
+site",6,18,24
+115,120,32,15-Sep-16,2:06 PM,2:20 PM,A,Var,18,12,18,Queen St. East,Major,4,N,Res-Com,N/A,Y,Y,N,Y,N,Y,Y,3,30,Curb-Building,1,N,Bin across street,Street,N: 43.67118W:79.29537,*,started at the intersection of Wineva and Queen to ensure 200 ft survey area. At least 3 litter bins within view of site,11,18,29
+116,121,32,14-Sep-16,2:30 PM,2:42 PM,B,Var,6.5,7,8.5,Glen Stewart Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,5,2,Curb,1,N,,Ave,"N: 43.67783
+W:79.29945",*,Start at #44 heading west,0,1,1
+117,122,30,14-Sep-16,1:20 PM,1:40 PM,B,Var,7,6.5,7,Walpole Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,52,7,Curb,4,N,,Ave,"N:43.674358
+W:79.32857",,Start at #48 moving west,13,3,16
+118,123,32,15-Sep-16,11:08 AM,11:20 AM,B,Var,6.5,6.5,6.5,Barker Ave.,Minor,2,N,Res,N/A,N,Y,N,N,N,Y,N,9,4,"Hedge-Curb-
+Stone wall",1,N,,Ave,"N:43.694514
+W:79.316257",,,10,1,11
+119,124,31,15-Sep-16,2:14 PM,2:45 PM,B,Var,18,18,7,Halsey Ave.,Minor,2,N,Res-Com,3 to 6,Y,Y,N,N,N,Y,N,93,36,"Curb-Grass
+Line-Tree Line",4,N,,Ave,"N:43.699582
+W:79.298125",,"100 ft from intersection of
+Halsey and Dawes very litter
+filled",30,33,63
+120,125,32,15-Sep-16,11:56 AM,12:15 PM,B,Var,13,13,13,Aldridge Ave.,Minor,2,N,Res,over 6,N,N,N,N,N,Y,N,43,8,"Curb-Grass-
+Stone wall",4,N,,Ave,"N:43.684154
+W:79.317425",,,25,1,26
+121,126,32,14-Sep-16,1:00 PM,1:10 PM,B,Var,6.5,6.5,6,Ashdale Ave.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,6,2,Curb-Sewer Grate,1,N,,Ave,N:43.667206W:79.319603,,"site is a one way street , one lane for driving and one for parking. Start at #45 heading south",5,6,11
+122,127,32,14-Sep-16,12:42 PM,12:53 PM,B,Var,6.5,6.5,8,Orchard Park Blvd.,Minor,2,N,Res,N/A,N,N,N,Y,N,Y,Y,7.5,3,"Fence-Curb-
+Hedge",1,N,City bin at start of site,Blvd,"N: 43.66793
+W:79.31413",*,"one way street. Start at #20
+heading southwest",1,0,1
+123,128,32,14-Sep-16,2:47 PM,2:57 PM,B,Var,5,6.5,5,Wayland Ave.,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,3,2,Curb,1,N,,Ave,"N:43.68302
+W:79.29525",*,one way street,6,1,7
+124,129,32,14-Sep-16,3:07 PM,3:27 PM,B,Var,14,18,6.5,Gerrard St. E,Major,4,N,Res,<3,N,N,N,N,Y,Y,Y,10.5,33,"Fence-Curb-
+Grass Line",2,N,"Bin across street next
+to bus stop",Street,"N: 43.68512
+W:79.29453",*,"survey start at corner (east) of
+Malvern & Gerrard to ensure
+200ft length",13,8,21
+125,131,44,20-Sep-16,3:01 PM,3:14 PM,A,Var,18,17,18,Ellesmere Rd.,Major,4,N,Res-Com,3 to 6,N,N,N,Y,Y,Y,Y,19.5,13,Curb-Grass Line,2,N,2 garbage and recycling adjacent to site,Road,N: 43.78751W:79.18439,*,site begins in front of Hakim Optical and Sandy's Cuisine & Café. 3351 Ellesmere Rd,14,13,27
+126,132,44,14-Sep-16,3:40 PM,3:50 PM,B,Var,10,11,10,Kingston Rd,Major,4,N,Com,N/A,Y,Y,N,Y,Y,Y,Y,10.5,8,Curb,1,N,,Road,"N: 43.68037
+W:79.28799",*,"site begins 50 ft from Silver
+Birch heading east",23,16,39
+127,133,44,20-Sep-16,2:39 PM,2:51 PM,A,Var,17,17,17,Hedge End Rd.,Minor,2,N,Res,<3,N,N,N,Y,N,N,Y,13.5,5,"Curb-Grass
+Line",1,N,"Garbage & recycling
+adjacent to point 3",Road,"N:43.808348
+W:79.173715",,Infront of house #5,3,7,10
+128,134,44,20-Sep-16,12:30 PM,12:39 PM,A,Var,17,17,17,Portsmouth Dr.,Minor,2,N,Res,"3 to 6, over 6",N,N,N,N,N,N,N,2,2,"Curb-Grass
+Line",1,N,,Drive,"N: 43.77567
+W:79.14249",*,"Start @ house 51 before
+driveway",3,1,4
+129,135,44,22-Sep-16,8:02 AM,8:08 AM,A,Var,2,2,2,Broadbridge Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,3,0,"Curb-Grass-
+Driveway",1,N,,Drive,"N:43.78803
+W:79.13211",*,Start @ house 31,0,0,0
+130,136,44,22-Sep-16,8:15 AM,8:22 AM,A,Var,17,17,17,Moorefield Dr.,Minor,2,N,Res,"<3, 3 to 6",N,N,N,N,N,Y,N,5,3,"Curb-Grass
+Line",1,N,,Drive,"N:43.78117
+W:79.13486",*,,2,3,5
+131,137,44,20-Sep-16,11:55 AM,12:06 PM,A,Fixed,18,18,18,Manse Rd,Minor,2,N,Res,3 to 6,N,N,N,Y,Y,Y,N,15,36,"Curb-Grass
+Line",3,N,,Road,"N: 43.76609
+W:79.17428",*,"Started in front of 235 sign on
+Manse Rd, bus stop 20 ft from
+point 3",1,2,3
+132,138,43,20-Sep-16,11:08 AM,11:17 AM,A,Var,3,3,3,Galloway Rd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,3,1,Curb,1,N,,Road,"N: 43.75393
+W:79.19131",*,"Start @ house 60, 70ft from end
+of driveway",1,2,3
+133,139,43,20-Sep-16,10:54 AM,11:00 AM,A,Fixed,18,18,18,Leverhume Cres.,Minor,2,N,Res,"<3, 3 to 6",N,N,N,N,N,N,N,6,5,"Curb-Grass-
+Property Line",1,N,,Crescent,"N: 43.75180
+W:79.20234",*,"Start @ house 20 after 26
+garden",2,0,2
+134,140,42,20-Sep-16,2:07 PM,2:24 PM,A,Var,12,10,9,"Scarborough-Pickering
+Town line",Minor,2,N,Res-Park,over 6,N,N,N,N,N,N,N,43,2,"Curb-Grass-
+Tree Line",3,N,,Town Line,"N:43.85195
+W:79.16869",*,"Country side road off of Tauntin
+Rd & Steeles Ave",9,1,10
+135,141,42,21-Sep-16,8:21 AM,8:41 AM,A,Var,17,16,18,Littles Rd.,Minor,2,N,Res,3 to 6,N,N,N,Y,Y,Y,Y,39,43,Curb-Grass Line,3,N,Garbage & recycling bins @ bus stop on corner,Road,N: 43.81741W:79.20461,*,Started across from Little & Birrell Ave towards Sewell's ,20,6,26
+136,142,31,15-Sep-16,3:05 PM,3:20 PM,B,Var,6.5,6.5,10,St Clair Ave. E,Major,4,N,Res-Com,N/A,Y,Y,N,N,N,Y,N,19.5,8,"Curb-Cement
+Bank",3,N,,Street,"N: 43.70797
+W:79.30190",,,16,11,27
+137,143,31,15-Sep-16,3:30 PM,3:38 PM,B,Var,10,10,10,Northdale Blvd.,Minor,1,Y,Res,<3,N,N,N,N,N,N,N,2,0,"Curb-Grass-
+Sewer",1,N,,Blvd,"N:43.70875
+W:79.31678",*,"barrier separating two one way
+streets",3,2,5
+138,144,29,15-Sep-16,11:35 AM,11:48 AM,B,Var,8.5,7,7,Monarch Park Ave.,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,7,2,"Hedge-Stone
+walk",1,N,,Ave,"N:43.68537
+W:79.328084",,,3,4,7
+139,145,29,15-Sep-16,9:46 AM,10:02 AM,B,Var,18,18,9,Plains Rd.,Minor,2,N,Res,N/A,Y,N,N,N,N,Y,N,13.5,5,"Fence-Curb-
+Sewer",2,N,,Road,"N:43.695004
+W:79.332344",,"School drop-off and pick-up
+zone",1,1,2
+140,146,30,14-Sep-16,12:02 PM,12:12 PM,B,Var,6.5,6.5,6.5,Caroline Ave.,Minor,2,N,Res,<3,N,Y,N,N,N,Y,N,12,3,"Hedge-Curb-
+Grass Line",3,N,,Ave,"N: 43.66066
+W:79.33475",*,Start @ 73 going south,10,13,23
+141,147,30,14-Sep-16,9:26 AM,9:37 AM,B,Var,6.5,6.5,6.5,Frizzell Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,Y,Y,N,18.5,2,Fence-Hedge-Curb-Grass Line,3,N,,Ave,N:43.674373W:79.343994,,one way street one lane for driving and one for parking,14,0,14
+142,148,29,14-Sep-16,9:04 AM,9:19 AM,B,Var,6,6.5,18,Selkirk St.,Minor,2,N,Res,over 6,N,N,N,N,N,N,N,12,4,"Fence-Hedge-
+Curb",2,N,,Street,"N:43.682139
+W:79.345668",,,22,2,24
+143,149,29,14-Sep-16,8:22 AM,8:50 AM,B,Var,11,9,9,Pape Ave,Major,4,N,Res-Com,N/A,N,Y,N,Y,Y,Y,Y,2.5,9,"Curb-Grass
+Line",1,N,"Bins across from site
+and on site",Ave,"N:43.686056
+W:79.347524",,North from Mortimer,5,37,42
+144,150,30,14-Sep-16,11:28 AM,11:53 AM,B,Var,13,14.5,14.5,Booth Ave.,Minor,2,N,Ind,over 6,N,N,N,N,N,Y,N,66.5,10,"Fence-Curb-
+Grass Line",4,N,,Ave,"N:43.655503
+W:79.342198",,"site adjacent to city property.
+saw garbage trucks nearby",33,3,36
+145,151,29,19-Sep-16,2:50 PM,3:00 PM,B,Var,6,6,6,Fernwood Gardens,Minor,2,N,Res,N/A,N,N,N,N,Y,Y,Y,19,5,Curb,3,N,"Bin @ bus stop on
+Broadview",Gardens,"N:43.691614
+W:79.356662",,,45,11,56
+146,152,35,19-Sep-16,9:50 AM,9:59 AM,A,Fixed,18,18,18,Zenith Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,Y,Y,Y,11,16,"Curb-Grass
+Line",2,N,"Garbage & recycling
+bins @ bus stop on
+corner",Drive,"N:43.7121
+W:79.26971",*,Construction on Zenith,8,1,9
+147,153,35,19-Sep-16,12:22 PM,12:44 PM,A,Fixed,18,18,18,Kennedy Rd.,Major,4,N,Res-Com,<3,Y,Y,N,Y,Y,Y,Y,72,29,"Curb-Grass-
+Property Line",4,N,"Garbage & recycling
+bins @ bus stop",Road,"N: 43.72653
+W:79.26570",*,,15,27,42
+148,154,35,19-Sep-16,12:00 PM,12:06 PM,A,Var,8,8,8,Verdun Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,5,4,"Fence-Curb-
+Grass Line",2,N,,Ave,"N: 43.72926
+W:79.25420",*,,13,3,16
+149,155,35,19-Sep-16,2:25 PM,2:43 PM,A,Var,18,8,18,Eglinton Ave. E,Minor,2,N,Res-Com,3 to 6,N,N,N,Y,Y,Y,Y,18,21,"Curb-Grass-
+Sidewalk",2,N,"Garbage & recycling
+betweet points 1 & 2",Ave,"N: 43.73277
+W:79.26445",*,"Survey completed directly in
+front of transit station bus area",6,29,35
+150,156,37,19-Sep-16,3:17 PM,3:29 PM,A,Var,10,10,10,Sherwood Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,10,0,"Curb-Grass-
+Property Line",2,N,,Ave,"N: 43.74061
+W:79.30096",*,,2,6,8
+151,157,37,20-Sep-16,8:05 AM,8:16 AM,A,Fixed,18,18,18,Laxford Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,4,10,"Curb-Grass
+Line",1,N,,Ave,"N: 43.74242
+W:79.29944",*,Started @ house #25,17,9,26
+152,158,37,20-Sep-16,8:24 AM,8:34 AM,A,Var,12,12,12,Warden Ave.,Major,4,N,Res,3 to 6,Y,N,N,N,N,Y,N,6.5,11,"Curb-Grass-
+Property Line",2,N,,Ave,"N: 43.74329
+W:79.29383",*,Start @ house 1110,10,30,40
+153,159,37,21-Sep-16,8:10 AM,8:21 AM,B,Var,10,10,10,Princemere Cr,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,7.5,3,"Curb-Grass
+Line",1,N,,Crescent,"N: 43.75507
+W:79.30285",*,,5,1,6
+154,160,37,20-Sep-16,8:51 AM,8:57 AM,A,Var,3,3,3,Flora Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,18,0,Curb,1,N,,Drive,"N: 43.74769
+W:79.27628",*,In front of house 202,4,3,7
+155,161,40,21-Sep-16,2:50 PM,3:05 PM,B,Fixed,18,18,18,Ellesmere Rd.,Minor,6,Y,Com-Ind,3 to 6,Y,Y,N,Y,Y,Y,Y,22,20,"Curb-Grass
+Line",3,N,Bin @ bus stop on site,Road,"N: 43.767869
+W:79.27332",*,"Toronto Public Library
+Administration Centre also
+present in area",1,2,3
+156,162,40,21-Sep-16,8:40 AM,8:51 AM,B,Fixed,18,18,18,Crocus Dr.,Minor,2,N,Park,3 to 6,N,N,N,N,N,Y,Y,14,5,"Curb-Grass
+Line",2,N,In middle of site,Drive,"N 43.76871
+W:79.30757",*,,5,3,8
+157,163,40,21-Sep-16,12:33 PM,12:45 PM,A,Var,17,17,17,Murmouth Rd.,Minor,2,Y,Res,<3,N,N,N,N,N,Y,N,9,2,"Curb-Grass-
+Property Line",1,N,,Road,"N: 43.77826
+W:79.29488",*,"Started approx. 10 ft after house
+34",5,6,11
+158,164,40,21-Sep-16,12:09 PM,12:20 PM,A,Var,17,18,17,Kellen St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,2,3,"Curb-Grass
+Line",1,N,,Street,"N: 43.78231
+W:79.30687",*,Start @ house 11,3,2,5
+159,165,40,21-Sep-16,11:55 AM,12:03 PM,A,Var,17,18,18,Huntingwood Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,Y,N,N,11.5,40,"Curb-Grass-
+Property Line",2,N,,Drive,"N: 43.78631
+W:79.30830",*,"Start @ corner of Davisbrooke &
+Huntingwood Dr",12,13,25
+160,166,39,21-Sep-16,2:08 PM,2:20 PM,A,Var,15,17,17,Kilchurn Castle Dr.,Minor,2,N,Res,3 to 6,N,N,N,Y,Y,Y,Y,3,6,Curb-Grass Line,1,N,Bin @ corner of Kennedy & Huntingwood,Drive,N: 43.79472W:79.29494,*,Start @ corner of Kilchum Castle & Huntingwood,2,0,2
+161,167,39,21-Sep-16,9:53 AM,10:05 AM,A,Var,17,17,17,Sanwood Blvd,Minor,2,N,Res,"<3, 3 to 6",N,N,N,N,Y,N,N,4,5,"Curb-Grass-
+Property Line",1,N,,Blvd,"N: 43.81645
+W:79.31322",*,Start @ house 11,7,3,10
+162,168,39,21-Sep-16,9:38 AM,9:42 AM,A,Var,17,17,17,Chapel Park Sq,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,1,3,"Curb-Grass
+Line",1,N,,Square,"N:43.81988
+W:79.31416",*,Start @ house 7,7,4,11
+163,169,41,21-Sep-16,2:50 PM,3:05 PM,A,Fixed,18,18,18,Midland Ave,Major,4,N,Res,<3,N,N,N,N,Y,Y,Y,19,26,Curb-Grass Line,2,N,Garbage & recycling across street @ bus stop,Ave,N: 43.79361W:79.28186,*,site begins at 2717 Midland Ave,5,3,8
+164,170,41,21-Sep-16,2:30 PM,2:40 PM,A,Var,17,17,18,Crockamhill Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,1,6,"Curb-Grass-
+Property Line",1,N,,Drive,"N: 43.79812
+W:79.28194",*,"site begins at 61 Crockamhill,
+construction @ start of street",3,1,4
+165,171,40,21-Sep-16,9:23 AM,9:28 AM,A,Var,3,3,3,Scoville Sq.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,6,0,"Curb-Grass-
+Property Line",1,N,,Square,"N: 43.82558
+W:79.28783",*,"start point in front of 11 Scoville
+Sq",9,12,21
+166,172,41,21-Sep-16,8:55 AM,9:10 AM,A,Fixed,18,18,18,Maybrook Dr.,Minor,2,N,Ind,3 to 6,N,N,N,Y,Y,N,Y,30,19,"Curb-Grass
+Line",2,N,"Garbage & recycling on
+street @ bus stop",Drive,"N:43. 82394
+W:79.26061",*,"site starts in front of CBM
+Scarborough Plant",6,2,8
+167,173,32,15-Sep-16,2:53 PM,3:02 PM,A,Var,15,7,6,Victoria Park Ave.,Minor,2,N,Res,3 to 6,Y,N,N,N,N,Y,N,10,5,"Fence-Curb-
+Property Line",2,N,,Ave,"N:43.68077
+W:79.28403",*,,3,6,9
+168,174,36,19-Sep-16,8:55 AM,9:02 AM,A,Var,2,2,2,Wynnview Crt.,Lane,1,N,Res,3 to 6,N,N,N,N,N,Y,N,0,2,"Grass-
+Property Line",1,N,,Court,"N: 43.69851
+W:7925414",*,Right side of street,9,6,15
+169,175,36,19-Sep-16,10:25 AM,10:36 AM,A,Var,17,17,17,Sloley Rd.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,13,8,"Curb-Grass
+Line",2,N,,Road,"N: 43.72042
+W:79.23039",*,school @ point 1,0,1,1
+170,176,36,19-Sep-16,11:20 AM,11:25 AM,A,Fixed,18,18,18,Randall Cres.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,4,2,"Curb-Grass
+Line",1,N,,Crescent,"N:43.72835
+W:79.23933",*,start @ 264 Randall,1,4,5
+171,177,36,19-Sep-16,11:08 AM,11:20 AM,A,Var,3,3,3,Randall Cres.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,5,1,Curb,2,N,,Crescent,"N: 43.72633
+W:79.23846",*,,3,2,5
+172,178,36,19-Sep-16,10:46 AM,10:59 AM,A,Var,7,7,7,Kingston Rd,Major,6,N,Res-Com,3 to 6,Y,Y,N,Y,Y,Y,Y,4,5,Curb-Grass Line,1,N,Garbage & recycling@bus stop 50 ft from point 3,Road,N:43.72412W:79.23384,*,,2,12,14
+173,179,36,20-Sep-16,10:24 AM,10:38 AM,A,Fixed,18,18,18,Eglinton Ave. E,Major,6,Y,Res-Com,<3,Y,Y,N,N,Y,Y,Y,13,21,"Curb-Grass
+Line",1,N,"Garbage bin outside
+Metro",Ave,"N: 43.74324
+W:79.21822",*,Metro @ point 3,11,26,37
+174,180,38,20-Sep-16,9:25 AM,9:35 AM,A,Var,17,17,17,Suraty Ave.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,0,2,"Curb-Grass
+Line",1,N,,Ave,"N: 43.76101
+W:79.24915",*,Infront of house #18,0,0,0
+175,181,38,21-Sep-16,3:25 PM,3:34 PM,B,Var,14,16,16,Lynnbrook Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,8.5,5,"Curb-Grass
+Line",2,N,,Drive,"N: 43.77222
+W:79.24480",*,,6,0,6
+176,182,38,22-Sep-16,9:35 AM,9:48 AM,A,Fixed,18,18,18,Progress Ave.,Major,4,N,Ind,3 to 6,N,N,N,N,N,Y,N,23.5,20,Curb-Grass,3,Y,Street cleaner vacuum cleaning garbage on street,Ave,N: 43.77703W:79.24947,*,Site begins at fire hydrant in front of Oxford College,6,22,28
+177,183,42,22-Sep-16,9:02 AM,9:22 AM,A,Fixed,18,18,18,Sheppard Ave. E,Major,4,N,Res,3 to 6,Y,Y,N,Y,Y,Y,Y,26,18,Curb-Grass Line,1,Y,Garbage bin outside plaza adjacent to site. Super Sucker going down Sheppard,Ave,N: 43.79432W:79.23630,*,Construction on right side of site (new apartment),11,6,17
+178,184,42,22-Sep-16,8:40 AM,8:50 AM,A,Var,11,11,3,Unita Gr. (Grove),Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,21,13,"Curb-Grass
+Line",1,N,,Grove,"N: 43.80146
+W:79.22691",*,"site begins at intersection of
+Unita and Mammoth Hall on
+sidewalk",4,5,9
+179,201,30,13-Sep-16,9:00 AM,9:10 AM,B,Var,8,7,8,Broadview Ave.,Major,4,N,Res-Park,N/A,N,N,N,Y,Y,Y,Y,15.5,0,Hedge,3,N,"bin across street in
+park",Ave,"N:43.6733
+W:79.3561",,across from Riverdale park east,9,1,10
+180,202,26,19-Sep-16,1:59 PM,2:11 PM,B,Var,2,2,2,Esandar St.,Minor,2,N,Ind,N/A,N,N,N,N,N,Y,N,24.5,6,Curb,3,N,,Street,"N:43.70778
+W:79.35693",*,,10,9,19
+181,203,22,19-Sep-16,12:58 PM,1:07 PM,B,Var,6.5,6.5,6.5,Cleveland St.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,12,2,Curb,2,N,,Street,"N:43.704157
+W:79.378688",,"school located on opposite
+corner",4,1,5
+182,204,22,19-Sep-16,11:28 AM,11:38 AM,B,Var,7.5,6.5,6.5,Berwick Ave.,Minor,2,N,Res-Com,N/A,N,N,N,N,N,Y,N,0,2,Curb,1,N,,Ave,"N:43.704017
+W:79.399475",,,32,5,37
+183,205,22,19-Sep-16,12:24 PM,12:37 PM,B,Var,18,18,6.5,Chaplin Cres,Minor,2,N,Res,3 to 6,N,Y,N,N,N,Y,Y,17.5,5,Fence-Curb-Grass Line,2,N,2 bins on either side of street,Crescent,N:43.698121W:79.398555,,apartments located east of duplex ave. Last 30ft of site under construction,6,0,6
+184,206,22,14-Sep-16,12:10 PM,12:23 PM,A,Var,9,8,8,Avenue Rd.,Major,6,N,Res,N/A,N,N,N,Y,Y,Y,N,3,8,"Curb-Property
+Line",1,N,,Road,"N:43.683928
+W:79.400897",,"surrounded by apartment
+complexes",4,8,12
+185,207,27,14-Sep-16,11:15 AM,11:29 AM,A,Var,8.5,7,7,Roxborough St. W,Minor,2,N,Res,3 to 6,Y,N,N,Y,N,Y,N,10,5,Fence-Curb,1,N,,Street,"N:43.678265
+W:79.390939",,,19,1,20
+186,208,27,14-Sep-16,10:47 AM,11:01 AM,A,Var,12,18,18,Mt. Pleasant Rd.,Major,4,N,Res-Com,3 to 6,N,N,N,Y,N,Y,N,10,9,"Curb-Property
+Line",1,N,,Road,"N:43.674473
+W:79.380628",,"adjacent to private school
+campus. Outside of wellness
+centre",3,3,6
+187,209,28,12-Sep-16,1:05 PM,1:20 PM,C,Var,11,18,18,Prospect St.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,8,6,"Fence-Curb-
+Garden",1,N,,Street,"N:43.666804
+W:79.371309",,"elementary schools on south
+side of street",25,1,26
+188,210,27,12-Sep-16,11:21 AM,11:50 AM,C,Var,18,14,7,Mutual St.,Major,2,N,Res-Com,N/A,Y,N,N,Y,Y,N,Y,11,20,Fence-Hedge-Curb,3,Y,Apt superintedent sweeping in front of building,Street,N:43.65601W:79.37529,*,Construction across street,9,12,21
+189,211,20,12-Sep-16,2:37 PM,2:38 PM,A,Var,13.5,13,12,John St.,Major,4,N,Com,N/A,Y,N,N,N,N,Y,N,2,13,Curb-Building,1,N,,Street,"N:43.64649
+W:79.38526",*,,6,3,9
+190,212,28,12-Sep-16,11:45 AM,12:00 PM,B,Fixed,18,18,18,Colbourne St.,Minor,2,N,Com,N/A,Y,N,N,Y,N,Y,Y,15,18,Curb,2,N,,Street,"N:43.648736
+W:79.377173",,Construction in the area,17,17,34
+191,213,28,12-Sep-16,1:27 PM,1:43 PM,B,Var,12,18,18,George St.,Minor,2,N,Res,N/A,N,N,N,Y,Y,Y,N,26,14,Hedge,1,N,,Street,"N:43.647814
+W:79.369819",,,13,19,32
+192,214,28,12-Sep-16,3:55 PM,4:09 PM,B,Fixed,18,18,18,Richmond St. E.,Major,4,N,Com,N/A,Y,Y,N,N,N,Y,Y,18,8,Curb,1,N,"Bin around corner on
+Power",Street,"N:43.654791
+W:79.364009",,adjacent to gas station,12,7,19
+193,215,28,13-Sep-16,12:35 PM,12:50 PM,B,Var,10,6,13,Pashler Ave.,Lane,2,N,Com,over 6,N,N,N,N,N,Y,N,28,11,Fence-Hedge-Grass Line,1,N,Church garbage bins on North end,Ave,N:43.659365W:79.363975,,site is adjacent to school and an apartment. Construction near south end of site,6,4,10
+194,216,28,13-Sep-16,2:05 PM,2:18 PM,B,Var,5,5,5.5,Bright St.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,17.5,1,"Fence-Hedge-
+Curb",3,N,,Street,"N:43.655997
+W:79.359537",,Start @ 43 heading south,14,1,15
+195,217,28,13-Sep-16,1:10 PM,1:23 PM,B,Var,6,6,6,Dundas St. E,Major,4,N,Res-Ind,<3,Y,N,N,N,N,Y,N,42,4,Fence-Hedge,4,Y,"Street cleaner across
+street",Street,"N:43.660802
+W:79.359056",,"Original site under construction;
+whole site heavy construction",31,7,38
+196,218,30,13-Sep-16,10:20 AM,10:30 AM,B,Fixed,18,18,18,Carroll St.,Lane,1,N,Res-Park,N/A,N,N,N,Y,N,Y,Y,1,2,"Curb-Sewer
+Grate",1,N,,Street,"N:43.659377
+W:79.353158",,paved walkway,27,1,28
+197,219,30,13-Sep-16,10:35 AM,10:46 AM,B,Var,5.5,18,6,Kintyre Ave.,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,14,3,"Hedge-Curb-
+Grass Line",2,Y,"City worker picking up
+litter",Ave,"N:43.660121
+W:79.351637",,,26,3,29
+198,220,28,15-Sep-16,12:00 PM,12:11 PM,A,Var,18,18,18,Lake Shore Ave.,Major,1,N,Park,3 to 6,N,N,N,Y,N,N,Y,10,4,Grass Line,1,N,,Ave,"N:43.61341
+W:79.38316",*,,1,2,3
+199,221,32,15-Sep-16,1:15 PM,2:03 PM,B,Var,11,16,16,Cedarvale Ave.,Minor,2,N,Res,over 6,N,Y,N,N,N,Y,N,120,16,Fence-Hedge-Curb-Grass-Tree Line-Sewer,4,N,,Street,N:43.687115W:79.311354,,,2,2,4
+200,222,26,19-Sep-16,8:33 AM,8:50 AM,B,Fixed,18,18,18,Don Mills Rd.,Major,6,N,Res,<3,N,N,N,N,Y,Y,Y,18.5,18,Curb-Grass Line,2,Y,Street cleaner vacuum present. Bins within study site,Road,N: 43.71761W:79.33791,*,in front of science centre,5,36,41
+201,223,26,19-Sep-16,1:36 PM,1:49 PM,B,Fixed,18,18,18,Millwood Rd,Major,4,Y,Com-Park,<3,Y,N,N,Y,Y,Y,Y,11,7,"Curb-Grass
+Line",2,N,Bins @ corner,Road,"N: 43.70166
+W:79.35196",*,,5,4,9
+202,224,26,19-Sep-16,2:25 PM,2:39 PM,B,Var,16,16,16,Overlea Blvd.,Major,4,Y,Res,<3,Y,Y,N,Y,Y,Y,Y,12,16,Fence-Curb,1,N,"both sides of streets,
+next two bus stops",Blvd,"N:43.703885
+W:79.350232",,,6,6,12
+203,250,19,13-Sep-16,9:40 AM,9:46 AM,A,Fixed,18,18,18,Stafford St.,Minor,2,N,Com,N/A,Y,Y,N,N,Y,Y,Y,5.5,9,Curb-Building,2,N,,Street,"N:43.64196
+W:79.41069",*,"Site starts @ corner of King &
+Stafford towards Canniff,
+alongside Shoppers",4,6,10
+204,251,20,12-Sep-16,11:35 AM,11:50 AM,A,Fixed,18,18,18,University Ave,Major,6,Y,Com,3 to 6,N,N,N,Y,N,Y,Y,2,24,"Curb-Wall
+Building",1,Y,"City worker picking up
+litter",Ave,"N: 43.65351
+W:79.38787",*,Outside court house,6,6,12
+205,252,28,15-Sep-16,11:27 AM,11:39 AM,A,Fixed,18,18,18,Avenue (of the Island),Lane,1,N,Park,<3,N,N,N,Y,N,N,Y,0,7,Grass Line,1,N,"Garbage & recycling on
+corner of point 1",Ave,"N:43.62126
+W:79.376807",,"park trail in front of fountain
+heading west",5,4,9
+206,254,19,13-Sep-16,9:05 AM,9:25 AM,C,Var,18,18,7.5,Clinton St.,Minor,2,N,Res-Com,N/A,Y,Y,N,Y,N,Y,N,10,26,Hedge-Curb,2,N,,Street,"N: 43.66333
+W:79.41704",*,,11,18,29
+207,256,28,12-Sep-16,12:36 PM,12:47 PM,A,Fixed,18,18,18,King St. W.,Major,4,N,Com,N/A,Y,N,N,Y,Y,Y,Y,3,15,Curb-Building,1,N,,Street,"N: 43.64782
+W:79.38412",*,,6,10,16
+208,257,28,13-Sep-16,9:35 AM,9:50 AM,B,Var,5,5,5,Parkview Ave.,Minor,2,N,Res,3 to 6,N,N,N,Y,N,Y,Y,10,2,Curb,2,Y,"Park bin end of street.
+Resident out cleaning
+curb",Ave,"N:43.670043
+W:79.364289",,,2,1,3
+209,258,28,12-Sep-16,3:30 PM,3:45 PM,B,Var,7,8,6,Sackville St.,Minor,2,N,Res,3 to 6,N,N,N,N,Y,Y,N,7,1,Hedge-Curb,2,N,,Street,"N:43.65501
+W:79.361196",,adjacent to elementary school,21,8,29
+210,259,27,12-Sep-16,10:38 AM,11:00 AM,C,Fixed,18,18,18,Dundas St. W.,Major,4,N,Com,N/A,Y,N,Y,N,Y,Y,Y,7.5,63,"Curb- Cement
+planter-Bike
+rack",2,N,,Street,"N: 43.65627
+W:79.38117",*,"Bus stop located in 1st section
+of survey area, at end of survey
+area extended due to garden",55,14,69
+211,260,20,13-Sep-16,3:30 PM,3:50 PM,A,Fixed,18,18,18,Spadina Ave.,Major,5,Y,Com,N/A,Y,Y,N,Y,Y,Y,Y,5,94,Curb-Building,2,N,,Ave,"N: 43.65315
+W:79.39798",*,"various store fronts next to
+survey area, 5th lane is centre
+transit lane",23,21,44
+212,261,20,13-Sep-16,2:15 PM,2:36 PM,C,Fixed,18,18,18,Augusta Ave.,Minor,2,N,Com,N/A,N,Y,Y,N,Y,Y,Y,2,66,Hedge-Curb-Cement planter,1,N,,Ave,N:43.65591 W:79.40253,*,start point in front of Big Fat Burrito,15,14,29
+213,270,28,15-Sep-16,10:50 AM,10:59 AM,A,Var,18,11.5,12,Lake Shore Ave.,Boardwalk,1,N,Park,3 to 6,N,N,N,N,N,N,Y,6,2,Grass Line,1,N,Garbage bin,Ave,"N:43.62270
+W:79.36176",*,wooden boardwalk,3,4,7
+214,271,36,19-Sep-16,8:45 AM,8:52 AM,A,Var,4,4,4,Wynnview Crt.,Lane,2,N,Res,3 to 6,N,N,N,N,N,N,N,2,6,Grass Line,1,N,,Crescent,"N:43.69780
+W:79.25379",*,,0,2,2
+215,300,19,13-Sep-16,9:35 AM,9:51 AM,C,Var,18,14,14,Bloor St. W,Major,5,N,Res-Com,N/A,Y,Y,N,N,N,Y,Y,6,49,Curb-Garden,2,N,3 divided city bins,Street,"N:43.66438
+W:79.41489",*,,8,54,62
+216,301,20,13-Sep-16,10:04 AM,10:22 AM,C,Var,18,14,18,Bloor St. W.,Major,5,N,Res-Com,N/A,Y,Y,N,N,N,Y,Y,2,63,"Curb-Tree
+edge",1,Y,"Litter typically
+collected 6 or 7 AM",Street,"N:43.66551
+W:79.40916",*,,21,25,46
+217,302,20,13-Sep-16,10:35 AM,10:45 AM,C,Var,18,6.5,6.5,Sussex Ave.,Minor,2,N,Res-Come,<3,N,Y,N,N,Y,N,Y,0,10,"Fence-Curb-
+Grass Line",1,N,3 divided city bins,Ave,"N:43.66481
+W:79.40177",*,University of Toronto buildings,19,1,20
+218,303,20,13-Sep-16,11:00 AM,11:13 AM,C,Var,18,6.5,6.5,Borden St.,Minor,2,N,Res-Com,<3,N,N,N,N,N,Y,Y,3,8,"Hedge-Curb-
+Grass Line",1,N,1 divided city bin,Street,"N: 43.66146
+W:79.40698",*,one way street,21,4,25
+219,304,20,19-Sep-16,5:55 PM,6:26 PM,C,Var,6,8,18,Lippincott St.,Minor,2,N,Res-Com,over 6,Y,N,N,Y,Y,Y,Y,43,42,"Fence-Hedge-
+Curb-Grass
+Line",3,N,1 divided city bin,Street,"N:43.76957
+W:79.28236",*,"Site across from school,
+construction at home 107
+Lippincott",5,3,8
+220,305,20,13-Sep-16,2:44 PM,3:20 PM,C,Var,18,18,16,Spadina Ave.,Major,5,Y,Com,N/A,Y,Y,N,N,Y,Y,Y,31,75,"Curb-Tree
+edge",4,N,divided city bins,Ave,"N: 43.65759
+W:79.40006",*,"start point in front of Aum
+Centre Yoga, multiple store
+fronts along length of site",20,40,60
+221,306,20,14-Sep-16,2:00 PM,2:19 PM,C,Var,7.5,12.5,18,Kensington Ave.,Lane,2,N,Res-Com,N/A,N,N,N,Y,N,N,N,3,30,Curb,1,N,,Ave,"N:43.65290
+W:79.40008",*,"various store fronts along survey
+area",16,33,49
+222,307,20,13-Sep-16,2:40 PM,2:46 PM,A,Var,11.5,13,12,Dundas St. W.,Major,4,N,Com,N/A,N,Y,N,Y,N,Y,N,8,18,Curb-Building,1,N,,Street,"N:43.652619
+W:79.400599",,,14,27,41
+223,308,20,14-Sep-16,12:40 PM,1:00 PM,C,Var,6,6,6,Hickory St.,Lane,2,N,Res-Com,N/A,Y,N,N,N,N,Y,Y,15.5,9,Fence-Curb,3,N,1 divided city bin,Street,"N: 43.65249
+W:79.40305",*,Construction along site,10,4,14
+224,309,20,13-Sep-16,2:55 PM,3:07 PM,A,Var,11,12.5,13.5,Dundas St. W.,Major,4,N,Com,<3,Y,N,Y,Y,Y,Y,Y,5,33,"Curb-Grass
+Line",2,N,"Garbage & recycling
+bins",Street,"N:46.650203
+W:79.40474",*,"Outside hospital, library across
+street",18,14,32
+225,310,20,13-Sep-16,12:06 PM,12:23 PM,A,Fixed,18,18,18,Eden PL,Lane,2,N,Res,N/A,N,N,N,N,N,N,N,11,26,Fence,2,N,,Place,"N:43.64907
+W:79.40410",*,side street/laneway,73,6,79
+226,311,19,14-Sep-16,11:54 AM,12:12 PM,C,Var,15,17,12,Euclid Ave.,alleyway,1,N,Com,N/A,N,N,N,N,N,N,N,11.5,9,"Fence-Hedge-
+Curb-Sewer",2,N,,Ave,"N:43.650356
+W:79.410013",,"Measured from one side of the
+alleyway to the other, two curbs",35,6,41
+227,312,19,14-Sep-16,11:25 AM,11:44 AM,C,Var,13,7,7,Mansfield Ave.,Minor,2,N,Res-Com,N/A,N,N,N,N,N,Y,N,8,11,Fence-Curb,1,N,,Ave,"N:43.65361
+W:79.41319",*,,21,3,24
+228,313,19,14-Sep-16,10:26 AM,10:45 AM,C,Var,7,7,18,Crawford St.,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,32.5,27,"Fence-Hedge-
+Curb",4,N,,Street,"N:43.653767
+W:79.418416",,,13,16,29
+229,315,19,13-Sep-16,9:52 AM,10:05 AM,A,Fixed,18,18,18,Niagara St.,Minor,2,N,Res,<3,N,N,N,Y,N,Y,N,15,17,Curb-Building,3,N,,Street,"N:43.641546
+W:79.404511",*,"In front of apartment complex,
+construction across street",11,17,28
+230,316,20,13-Sep-16,10:43 AM,10:59 AM,A,Fixed,18,18,18,Wellington St. W,Major,4,N,Res-Com,N/A,N,N,N,Y,N,Y,Y,8.5,10,Curb-Building,1,N,,Street,"N:43.64329
+W:79.39894",*,small parking lot on street,15,24,39
+231,317,20,12-Sep-16,3:30 PM,3:38 PM,A,Fixed,18,18,18,Adelaide St. W,Major,4,N,Com,N/A,Y,N,N,Y,N,Y,Y,1,15,Curb-Building,1,N,,Street,"N:43.646033
+W:79.397936",,,12,7,19
+232,318,20,12-Sep-16,3:57 PM,4:06 PM,A,Var,11,18,10,Augusta Ave.,Minor,2,N,Res-Com,<3,Y,N,N,N,N,Y,N,11,24,"Fence-Curb-
+Building",1,N,,Ave,"N:43.648504
+W:79.399767",,,12,9,21
+233,320,20,15-Sep-16,1:56 PM,2:06 PM,C,Var,8.5,7.5,7.5,Sullivan St.,Lane,2,N,Res,<3,N,N,N,N,N,Y,N,8,0,"Fence-Curb-
+Grass Line",1,N,,Street,"N:43.65150
+W:79.39457",*,,10,8,18
+234,321,20,12-Sep-16,12:00 PM,12:15 PM,A,Var,14,16.5,14.5,Queen St. W.,Major,4,N,Com,N/A,Y,N,Y,Y,Y,Y,Y,0,0,"Curb-Building
+Wall",1,N,,Street,"N:43.65052
+W:79.38806",*,Construction across street,12,21,33
+235,323,20,12-Sep-16,2:10 PM,2:26 PM,A,Var,18,15,18,John St.,Major,4,N,Com,N/A,Y,N,N,N,N,Y,Y,11,26,Curb,1,N,,Street,"N:43.644833
+W:79.388959",,,2,3,5
+236,324,28,22-Sep-16,8:48 AM,9:05 AM,C,Var,11.5,11,13,Cooper St.,Major,2,N,Com,<3,N,N,N,Y,N,Y,Y,11.5,19,"Curb-Grass
+Line",2,N,,Street,"N:43.75010
+W:79.41284",,"commercial lot along north end
+of site and small park along
+south end",8,13,21
+237,326,27,12-Sep-16,3:50 PM,4:06 PM,C,Var,18,11,10,St. Nicholas St.,Minor,2,N,Res,N/A,Y,N,N,Y,N,Y,Y,1,7,Fence-Hedge,1,N,,Street,"N:43.667368
+W:79.386529",,,5,8,13
+238,328,27,12-Sep-16,3:20 PM,3:41 PM,C,Var,12,6,6,Gloucester St.,Minor,2,N,Res,N/A,N,Y,N,Y,N,N,N,7,17,Fence-Hedge,1,N,,Street,N:43.667405W:79.38242,,"next to a low rise at east end of site and high rise at went end of site, surveyed on to apartment lawns",11,4,15
+239,329,27,12-Sep-16,4:29 PM,4:50 PM,C,Var,16,18,18,Grosvenor St.,Minor,4,N,Res-Com,3 to 6,Y,Y,N,N,Y,Y,Y,38,34,"Curb-Grass
+Line-Concrete
+divider",4,N,,Street,"N:43.66215
+W:79.38676",*,"Construction taking place across
+from site, workers take break on
+North side of Grosvenor.
+Women's College Hospital
+Across St",25,35,60
+240,330,28,12-Sep-16,12:40 PM,12:57 PM,C,Var,11.5,11.5,11.5,Ontario St.,Minor,2,N,Res-Com-Park,N/A,N,N,N,Y,N,Y,Y,3,22,Fence-Curb,1,N,,Street,"N:43.664231
+W:79.370696",,"start point corner of Abelden
+and Ontario. Small park across
+street",16,3,19
+241,332,27,12-Sep-16,12:04 PM,12:30 PM,C,Fixed,18,18,18,Gerrard St. E.,Major,4,N,Res-Com-Park,<3,N,N,N,Y,N,Y,Y,3.5,89,Curb,1,N,,Street,"N:43.661043
+W:79.374296",,"Two curbs, city park at east end
+and church at west end",24,7,31
+242,333,28,13-Sep-16,11:23 AM,11:40 AM,B,Var,18,18,11,Dundas St. E.,Major,4,N,Com-Res,N/A,N,Y,N,N,N,Y,Y,54,11,Curb,4,N,Bins on site,Street,"N:43.658961
+W:79.367351",,,15,11,26
+243,334,28,12-Sep-16,12:50 PM,1:05 PM,B,Var,9,8,9,Richmond St. E.,Major,4,N,Com,N/A,Y,N,N,N,N,Y,Y,6,14,Curb,1,N,,Street,"N:43.653288
+W:79.37052",,"restaurants on north side,
+residential on south side of site",7,12,19
+244,335,28,12-Sep-16,2:00 PM,2:15 PM,B,Var,10,10,10,Frederick St.,Minor,2,N,Res,N/A,N,N,N,N,Y,Y,N,29,7,Curb,3,N,,Street,"N:43.649263
+W:79.369156",,,20,29,49
+245,336,28,12-Sep-16,2:30 PM,2:45 PM,B,Var,18,11,18,The Esplanade,Minor,4,N,Res-Com-Park,N/A,Y,N,N,Y,Y,Y,Y,8,35,"Curb-Metal
+grates",2,N,,Esplanade,"N:43.649945
+W:79.364121",,,3,19,22
+246,337,41,22-Sep-16,10:04 AM,10:15 AM,A,Fixed,18,18,18,Midland Ave,Major,4,N,Res,3 to 6,N,N,N,Y,Y,Y,Y,8,8,"Curb-Grass
+Line",1,N,,Ave,"N:43.78881
+W:79.27985",*,"begins in front of Agincourt High
+school",4,10,14
+247,338,7,16-Sep-16,9:39 AM,9:50 AM,A,Var,17,17,17,Benrubin Dr.,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,11,2,"Curb-Grass
+Line",2,N,,Drive,"N:43.752009
+W:79.565628",,,7,0,7
+248,401,1,16-Sep-16,1:30 PM,1:40 PM,A,Fixed,18,18,18,Sanagan Rd,Minor,2,N,Res,<3,N,N,N,N,Y,Y,Y,30,26,"Curb-Grass
+Line",2,N,City bin with pedal,Road,"N:43.738435
+W:79.577298",,"adjacent to low rise apartment
+complex",32,12,44
+249,402,1,16-Sep-16,8:43 AM,8:55 AM,A,Fixed,18,18,18,Garfella Dr,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,25,10,Curb-Grass Line,3,N,,Drive,N:43.745327W:79.593311,,"large apartment complex to north west of site, many children were being walked to school along route",17,2,19
+250,403,3,16-Sep-16,11:07 AM,11:20 AM,C,Var,16,17.5,18,Gentian Dr,Minor,2,N,Res,3 to 6,N,N,N,N,Y,Y,N,2,4,"Curb-Grass-
+Tree Line",1,N,,Drive,"N:43.665151
+W:79.583458",,,2,2,4
+251,405,5,19-Sep-16,11:44 AM,11:56 AM,C,Var,18,14,14,Cochrane Dr,Minor,2,N,Res,<3,N,N,N,N,N,Y,Y,2,2,"Curb-Grass
+Line",1,N,,Drive,"N: 43.62776
+W:79.50756",*,"survey completed in Queensway
+Park",3,0,3
+252,406,6,19-Sep-16,9:29 AM,9:40 AM,C,Var,5,6.5,6.5,Symons St,Minor,2,N,Res,over 6,N,N,N,N,N,N,N,3,1,Hedge-Curb,1,N,,Street,"N:43.607666
+W:79.493473",,"Pipe laying construction along
+road",0,1,1
+253,407,13,20-Sep-16,9:32 AM,9:40 AM,C,Var,18,18,7.5,Langmuir Cres,Minor,2,N,Res,3 to 6,N,N,N,Y,N,Y,Y,3,1,"Curb-Stone
+walls",1,N,,Crescent,"N:43.655599
+W:79.493872",,"cashman park is same side of
+site, residential houses on
+adjacent side",2,1,3
+254,408,14,15-Sep-16,3:34 PM,3:49 PM,C,Var,15.5,15.5,15.5,Jameson Ave,Minor,2,N,Res,<3,N,N,N,Y,Y,Y,N,3,18,"Fence-Curb-
+Grass Line",1,N,,Ave,"N:43.636312
+W:79.436354",,,33,47,80
+255,409,15,20-Sep-16,12:00 PM,12:30 PM,B,Fixed,18,18,18,Castlefield Ave,Major,2,N,Park,3 to 6,N,N,N,Y,N,Y,Y,8,7,"Grass-Tree
+Line",1,N,,Ave,"N:43.696485
+W:79.469323",,,64,9,73
+256,410,16,22-Sep-16,10:23 AM,10:32 AM,B,Var,2,2,2,Grey Rd,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,6,0,Curb,1,N,,Road,"N:43.728026
+W:79.421116",,"Construction on Grey at
+St.Germaine. Start at 289
+heading west",4,3,7
+257,411,17,14-Sep-16,3:10 PM,3:22 PM,A,Var,7,7,7,Northcliffe Blv,Minor,2,N,Res,3 to 6,Y,N,N,N,N,Y,N,2,6,"Fence-Curb-
+Grass Line",1,N,,Blvd,"N:43.679081
+W:79.440975",,"across from elementary school.
+One way street one lane for
+driving one for parking",30,3,33
+258,412,18,15-Sep-16,11:03 AM,11:20 AM,C,Var,6.5,6.5,6.5,Dublin St,Minor,2,N,Com-Res,N/A,N,N,N,N,N,Y,N,15,13,"Fence-Hedge-
+Curb",2,N,,Street,"N:43.654536
+W:79.443486",,"one way street, one lane for
+diving and a narrow one for
+parking",14,2,16
+259,413,20,13-Sep-16,12:13 PM,12:24 PM,C,Var,10,6.5,6.5,Lippincott St,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,0,7,Fence-Curb,1,N,,Street,"N:43.65843
+W:79.40722",*,"directly in front of King Edward
+Public School",50,4,54
+260,414,25,21-Sep-16,11:45 AM,11:51 AM,B,Var,2,2,2,Hopperton Dr,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,4,1,Curb,1,N,,Drive,"N:43.76461
+W:79.37136",*,"West side, starts at 56 towards
+woodsworth",1,4,5
+261,415,25,21-Sep-16,12:14 PM,12:18 PM,B,Var,2,2,2,Shouldice Crt,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,2.5,0,Curb,1,N,,Court,"N:43.76261
+W:79.36517",*,,0,2,2
+262,416,27,13-Sep-16,3:32 PM,3:41 PM,B,Fixed,18,18,18,Grosvenor St,Minor,2,N,"Com-
+Government
+Buildings
+(Inst)",3 to 6,N,N,N,Y,N,Y,N,6.5,9,Hedge-Curb,2,N,,Street,"N:43.66189
+W:79.38929",*,"site in front of Frost North
+building",0,3,3
+263,417,28,12-Sep-16,4:20 PM,4:40 PM,B,Var,18,5,18,Sydenham St,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,30.5,8,Hedge-Curb,4,N,,Street,N:49.656917W:79.362483,,,12,2,14
+264,418,29,15-Sep-16,10:25 AM,10:37 AM,B,Var,18,18,10,Memorial Park Ave,Minor,1,N,Res-Park,3 to 6,N,Y,N,Y,N,Y,Y,6,2,Fence-Curb,2,N,,Ave,"N:43.69069
+W:79.33517",*,site within park area,29,2,31
+265,419,30,14-Sep-16,12:18 PM,12:27 PM,B,Var,4.5,6,5.5,Winnifred Ave,Minor,2,N,Res,N/A,N,N,N,N,N,N,N,4,1,Fence-Hedge-Curb-Grass Line,1,N,,Ave,N:43.659511W:79.335338,,site bound by a curb on the west and residential properties on the east. House construction. Start at 18 moving North,5,2,7
+266,420,31,15-Sep-16,10:49 AM,11:02 AM,B,Var,6.5,6.5,6.5,Dunkirk Rd,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,11,2,"Fence-Curb-
+Wood/cement
+buildups",1,N,,Road,"N:43.692795
+W:79.31942",,,6,0,6
+267,421,32,14-Sep-16,2:01 PM,2:10 PM,B,Var,8,8,8,Rhodes Ave,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,7.5,5,Curb-Sewer,2,N,,Ave,"N:43.673474
+W:79.32121",,"one way road. Start at 325
+heading South",5,0,5
+268,422,34,21-Sep-16,12:41 PM,12:57 PM,B,Fixed,18,18,18,Upjohn Rd.,Major,2,N,Com,<3,Y,N,N,N,N,Y,N,11.5,3,"Curb-Grass
+Line",1,N,,Road,"N:43.75373
+W:79.35041",*,"across from Gallery Market
+Place",4,7,11
+269,423,36,19-Sep-16,8:25 AM,8:35 AM,A,Var,6,6,2,Kenny Ave,Minor,2,N,Res,3 to 6,N,N,N,N,Y,N,N,5,4,"Curb-Grass-
+Property Line",2,N,,Ave,"N:43.69139
+W:79.27254",*,,2,0,2
+270,424,37,19-Sep-16,2:57 PM,3:05 PM,A,Var,3,3,3,Minford Ave,Minor,2,N,Res,3 to 6,N,N,N,N,Y,Y,Y,13,11,"Curb-Grass
+Line",3,N,"Garbage & recycling @
+bus stop on corner",Ave,"N:43.73706
+W:79.29118",*,,1,0,1
+271,425,38,20-Sep-16,9:38 AM,9:48 AM,A,Var,18,17,17,Kencliff Cres,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,8,9,"Curb-Grass
+Line",1,N,,Crescent,"N:43.76190
+W:79.24863",*,,0,0,0
+272,426,39,21-Sep-16,10:47 AM,10:59 AM,A,Var,17,17,17,Glen Springs Dr,Minor,2,N,Res,"3 to 6, over 6",N,N,N,N,N,N,N,7,5,"Curb-Grass
+Line",2,N,,Drive,"N:43.80394
+W:79.32220",*,"Construction on Warden, start
+before #136",2,4,6
+273,500,3,16-Sep-16,10:07 AM,10:19 AM,C,Var,15.5,15,15,Lloyd Manor,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,9,10,"Hedge-Curb-
+Grass Line",2,N,,Road,"N:43.674568
+W:79.557729",,"Starting point across from
+Metro supermarket",6,4,10
+274,501,36,15-Sep-16,3:30 PM,3:37 PM,A,Var,6.5,5.5,6,Winston,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,3,0,"Fence-Curb-
+Grass Line",1,N,,Ave,"N:43.68419
+W:79.28351",*,,4,4,8
+275,502,36,15-Sep-16,3:13 PM,3:21 PM,A,Var,8,6.5,6.5,Fallingbrook,Minor,2,N,Res,3 to 6,Y,N,N,N,Y,Y,Y,3,11,"Curb-Grass-
+Property Line",1,N,,Road,"N:43.68148
+W:79.27905",*,,5,8,13
+276,503,10,21-Sep-16,2:25 PM,3:32 PM,C,Var,2,2,2,Charleswood,Minor,2,N,Res-Com,3 to 6,Y,Y,N,N,Y,Y,N,21,2,"Hedge-Curb-
+Grass Line",3,N,,Drive,"N:43.737921
+W:79.435167",,,25,29,54
+277,504,35,19-Sep-16,9:20 AM,9:28 AM,A,Var,11,12,13,St Clair E,Major,4,N,Res,<3,N,N,N,N,Y,Y,Y,8,20,"Curb-Grass
+Line",2,N,"Garbage & recycling
+bins across street",Ave,"N:43.71101
+W:79.28610",*,,14,9,23
+278,505,40,21-Sep-16,11:29 AM,11:42 AM,A,Fixed,18,18,18,Bridletowne,Minor,2,N,Res,3 to 6,N,N,N,N,N,N,N,8,7,Curb,2,N,,Circle,"N:43.79218
+W:79.31615",*,Construction on site,6,4,10
+279,506,9,21-Sep-16,11:14 AM,11:30 AM,C,Var,16.5,16.5,16.5,Victory,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,8,4,"Fence-Curb-
+Grass Line",1,N,,Drive,"N:43.727875
+W:79.48678",,,8,4,12
+280,507,13,20-Sep-16,8:56 AM,9:11 AM,C,Fixed,18,18,18,Humberview,Minor,1,N,Res-Park,"3 to 6, over 6",N,N,N,Y,N,N,Y,2,2,Grass-Shrubs,1,N,2 sets of park carts,Road,"N:43.653491
+W:79.489788",,,1,0,1
+281,508,41,21-Sep-16,3:16 PM,3:28 PM,A,Var,17,17,17,Mollard,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,23,13,"Curb-Grass
+Line",2,N,,Road,"N:43.79853
+W:79.27557",*,,3,7,10
+282,509,17,20-Sep-16,1:50 PM,2:10 PM,C,Var,10.5,7.5,7,Algarve,Minor,2,N,Res-Park,over 6,N,N,N,N,N,N,Y,50.5,6,"Fnece-Curb-
+Grass Line",3,N,"1 divided city bin, 2
+recycling park carts",Crescent,"N:43.67965
+W:79.46625",*,,33,7,40
+283,510,32,15-Sep-16,2:37 PM,2:45 PM,A,Var,6.5,7,6.5,Scarborough,Minor,2,N,Res,<3,N,N,N,N,N,Y,N,2,0,"Curb-Grass
+Line",1,N,,Road,"N:43.67685
+W:79.28556",*,,4,1,5
+284,511,21,20-Sep-16,1:41 PM,1:53 PM,B,Var,15,15,15,Heathdale,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,7,1,"Curb-Grass
+Line",2,N,,Road,"N:43.689387
+W:79.422633",,,6,1,7
+285,512,16,19-Sep-16,10:45 AM,10:56 AM,B,Var,6,6,6,Duplex,Minor,2,N,Res,N/A,N,N,N,N,N,y,N,3,2,"Curb-Grass-
+Sewer",1,N,,Ave,"N:43.718363
+W:79.404221",,,1,0,1
+286,513,44,20-Sep-16,11:25 AM,11:37 AM,A,Fixed,18,18,18,Ling,Minor,2,N,Res,<3,N,N,N,Y,Y,Y,N,2,14,Curb-Grass,1,N,,Road,"N:43.76678
+W:79.18445",*,Outside apartment building,11,9,20
+287,514,22,14-Sep-16,11:30 AM,12:03 PM,A,Var,18,18,15.5,Avenue,Major,6,N,Res,<3,N,N,N,Y,N,Y,N,2,8,Curb-Building,1,N,,Road,"N:43.680351
+W:79.398771",,,6,4,10
+288,515,7,16-Sep-16,12:08 PM,12:24 PM,A,Fixed,18,18,18,Sheppard W,Major,6,N,Com,over 6,N,N,N,N,Y,Y,N,45,55,"Curb-Grass
+Line",3,N,,Ave,"N:43.735869
+W:79.530029",,,103,24,127
+289,516,40,21-Sep-16,11:07 AM,11:21 AM,A,Fixed,18,18,18,Corinthian,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,10,7,Curb-Grass,2,N,,Blvd,"N:43.79263
+W:79.32602",*,"Along fence of apartment
+complex on corner.
+Construction @ apartment",5,2,7
+290,517,6,19-Sep-16,9:46 AM,9:56 AM,C,Var,8.5,11.5,11.5,Murrie,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,0,5,"Hedge-Curb-
+Grass Line",1,N,,Street,"N:43.604635
+W:79.498672",,"school located across Dwight
+from site",10,4,14
+291,518,31,15-Sep-16,8:54 AM,9:06 AM,B,Var,6,6,6,Machokie,Minor,2,N,Res,N/A,N,N,N,N,N,Y,N,1,1,Curb-Sewer,1,N,,Road,"N:43.68052
+W:79.28799",,Construction across street,4,2,6
+292,519,3,16-Sep-16,10:50 AM,11:01 AM,C,Fixed,18,18,18,Eringate,Minor,2,N,Res-Park,<3,N,N,N,Y,N,Y,Y,6,1,"Curb-Grass
+Line",1,N,"Garbage & recycling
+carts in park",Drive,"N:43.66283
+W:79.57479",*,"18 ft of grass between sidewalk
+and curb. Site alongside a park",3,3,6
+293,520,3,16-Sep-16,10:33 AM,10:47 AM,C,Var,14,14,16,The West Mall,Major,4,N,Res,<3,N,N,N,N,Y,Y,Y,6,27,"Curb-Grass
+Line",1,N,2 divided city bins,Road,"N:43.639401
+W:79.565374",,,9,5,14
+294,521,20,13-Sep-16,9:15 AM,9:29 AM,A,Var,7,7,7,Bernard,Minor,2,N,Res,3 to 6,N,N,N,Y,N,Y,N,7,4,"Curb-Grass
+Line",2,N,,Ave,"N:43.672889
+W:79.401604",,"across Bernard from Apartment
+Complex",7,1,8
+295,522,21,14-Sep-16,1:55 PM,2:04 PM,A,Var,8,8,8,Davenport,Major,2,N,Res,N/A,N,N,N,Y,Y,Y,N,11,6,"Fence-Curb-
+Grass Line",2,N,,Road,"N:43.676534
+W:79.414497",,,6,5,11
+296,523,13,20-Sep-16,10:56 AM,11:06 AM,C,Var,7,7,7,Watson,Minor,2,N,Res,3 to 6,N,N,N,N,N,Y,N,2,2,"Curb-Barrier
+Wall",1,N,,Road,"N:43.66321
+W:79.49155",*,,5,1,6
+297,524,15,20-Sep-16,12:25 PM,12:45 PM,C,Var,11,11,10,Rogers,Major,4,N,Res-Com,over 6,Y,Y,N,N,Y,Y,N,19,42,"Fence-Curb-
+Grass Line",3,N,,Road,"N:43.68222
+W:79.46942",,"Found 3 garbage bags rejected
+by city",24,28,52
+298,525,27,19-Sep-16,10:10 AM,10:13 AM,A,Var,3,3,3,Davidson,Minor,2,N,Res,3 to 6,N,Y,N,N,N,Y,N,3,0,Curb,1,N,,Ave,"N:46.71215
+W:79.26073",*,"Site starts in middle of driveway
+on 18 Davidson Ave",1,0,1
+299,601,21,20-Sep-16,11:42 AM,11:53 AM,C,Var,7,7,8,Foxwell,Minor,2,N,Res,<3,N,N,N,Y,Y,N,Y,3,1,"Curb-Retaining
+Wall",1,N,1 divided city bin,Street,"N:43.66997
+W:79.49881",*,,#N/A,#N/A,#N/A
+300,602,20,12-Sep-16,9:20 AM,10:00 AM,A,Var,16,18,18,Bond St.,Minor,2,N,Com,3 to 6,Y,N,N,Y,N,Y,Y,108.5,65,"Fence-Curb-
+Grass Line",4,N,"2 garbage cans across
+street, 1 within parking
+lot",Street,"N:43.65404
+W:79.37737",*,"near a church and hospital with
+adjacent parking lot. Abandoned
+building within site",#N/A,#N/A,#N/A

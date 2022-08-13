@@ -1,0 +1,5 @@
+"inaturalist_2017_2018_2019.csv" was downloaded from www.inaturalist.org
+(visit "explore" then "filter" then "download" to access download page).
+Entries were downloaded only for the Vancouver, B.C. area and only those submitted from 2017-2019. Accessed 2021.
+
+"inaturalist_census_area_ggis.csv" is "inaturalist_2017_2018_2019.csv" spatially joined onto census area data in QGIS by Lisa Watkins. Census area data was downloaded from City of Vancouvery Open Data Portal: https://opendata.vancouver.ca/explore/dataset/local-area-boundary/

@@ -1,0 +1,38 @@
+[SanJose_motivations_email.pdf] is email response from San Jose, California municipal employees with answers to Lisa Watkins's questions about what motivates them to fund these municipal audits.
+
+[SF_audit_...] are downloaded reports of municipal audits performed in San Francisco, California. 
+[2007] was downloaded from
+https://wayback.archive-it.org/org-160/20110309010308/http://www.sfdpw.org/ftp/uploadedfiles/sfdpw/director/SanFranciscoLitterStudyFinalReport2007.pdf
+[2008] was downloaded from
+https://www.waterboards.ca.gov/sanfranciscobay/water_issues/programs/stormwater/MRP/02-2012/Comments/Dart/Staff_Exhibits.pdf
+[2009] was downloaded from
+https://wayback.archive-it.org/org-160/20140530014302/http://www.cawrecycles.org/files/SF2009LitterReportFINAL-Sep15-09.pdf
+[2014] was downloaded from http://www.sfexaminer.com/wp-content/uploads/2015/12/San-Francisco-2014-Litter-Study_final.pdf
+
+[SF_sitedata_2007-11] and [SF_sitedata_2007-11_metadata] are street and sidewalk evaluations downloaded from https://data.sfgov.org/City-Infrastructure/FY07-11-Street-Evaluation-Results/i8y7-m763. Accessed and downloaded by Lisa Watkins on 5/12/2021.
+
+[Toronto_audit_2012] is PDF of municipal audit, downloaded from https://www.erplanning.com/uploads/2012_Toronto_Streets_Litter_Audit_-_Final_Report.pdf by Lisa Watkins on 7/30/2020.
+
+[Toronto_audit_2016] is PDF of municipal audit from Toronto, Canada, downloaded from https://www.toronto.ca/wp-content/uploads/2017/10/8ed5-Toronto-Litter-2016-Final-Report_App_Final.pdf by Lisa Watkins on 7/30/2020.
+NOTE: audits also available in Toronto for 2002, 2004, 2005, 2006, 2012, and 2014
+
+[Toronto_sitedata_2016-14] is table of unknown origin describing each site visited for municipal audits
+
+[Vancouver_audit_...] are PDFs of municipal audits completed in Vancouver, Canada.
+[2015] was downloaded from https://vancouver.ca/files/cov/street-litter-audit-survey-report-2015.pdf by Lisa Watkins on 7/22/2020.
+
+[2017] was downloaded from https://vancouver.ca/files/cov/street-litter-audit-survey-report-2017.pdf by Lisa Watkins on 7/22/2020
+
+[2018] was downloaded from a source that no longer exists.
+
+[2019] was downloaded from https://vancouver.ca/files/cov/street-litter-audit-survey-report-2019.pdf by Lisa Watkins on 7/22/2020
+
+[Vancouver_fullaudit_...] these three files contain the same report as [Vancouver_audit_...], but also contain all related appendices. These documents were shared with Lisa Watkins <ltw35@cornell.edu> by Patrick Chauo <patrick.chauo@vancouver.ca> on September 16, 2020.
+
+[vancouver_municipalresponses] include Vancouver, Canada municipal employee Patrick Chauo's responses to Lisa Watkins's questions about what motivates the municipality to fund these audits.
+
+[Vancouver_..._site_characteristics_transcribed] are Lisa Watkins's transcriptions of Appendix C from [Vancouver_fullaudit_...].
+
+[Vancouver_..._site_small_count] and [Vancouver_..._site_large_count] are small and large columns form Appendix F
+
+[Vancouver_localarea_municipalauditlocations_qgis] is Appendix A of [Vancouver_fullaudit_...] hand-transcribed into QGIS by Lisa Watkins and spatially joined in QGIS with file of Vancouver's local census areas (downloaded from https://opendata.vancouver.ca/explore/dataset/local-area-boundary/)

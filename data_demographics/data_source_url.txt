@@ -1,0 +1,2 @@
+"Vancouver_localarea_deomographics_download.csv" is a file cleaned of its headers, but otherwise untouched as downloaded from https://opendata.vancouver.ca/explore/dataset/census-local-area-profiles-2016/information/
+Specifically, it contains 2016 census demographics data by "local area" for Vancouver, B.C. Originally downloaded file name was "CensusLocalAreaProfiles2016.csv". Accessed 2021.
