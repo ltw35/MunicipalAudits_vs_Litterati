@@ -1,4 +1,4 @@
-# Litterati vs. Municipal Audits
+# Municipal Audits vs. Litterati
 How useful is crowd-sourced litter data at a city scale? And what about the most expensive municipal litter audits? How do they compare and do they deliver information of interest to scientific analysis of plastic pollution dynamics in urban areas?<br><br>
 
   
